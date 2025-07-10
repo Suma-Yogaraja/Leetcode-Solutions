@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |

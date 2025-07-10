@@ -19,7 +19,7 @@ class Solution {
             fast=fast.next.next;
             slow=slow.next;
         }
-        System.out.println(slow.val);
+       // System.out.println(slow.val);
         dummy=slow;
         ListNode curr=dummy;
         ListNode prev=null;
@@ -31,7 +31,7 @@ class Solution {
             prev=curr;
             curr=nextNode;
         }
-        System.out.println(prev.val);
+       // System.out.println(prev.val);
     
         //now check head with second half(prev is head of second half)
         while(prev!=null){

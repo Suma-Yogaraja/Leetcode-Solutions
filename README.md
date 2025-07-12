@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1666-make-the-string-great) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -57,5 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->

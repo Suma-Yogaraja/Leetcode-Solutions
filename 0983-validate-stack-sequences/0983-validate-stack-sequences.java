@@ -6,7 +6,7 @@ class Solution {
         for(int num:pushed){
             //first push the number to stack
                 stack.push(num);
-                System.out.println(num);
+                //System.out.println(num);
         //now check whether that pushed num is same as pop ,if same pop that elemnt
             while(!stack.isEmpty()&& j<popped.length && stack.peek()==popped[j]){
                 

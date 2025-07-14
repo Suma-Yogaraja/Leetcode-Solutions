@@ -19,7 +19,7 @@ class Solution {
             }
             if(alive){
             stack.push(i);
-            System.out.println(i);
+            //System.out.println(i);
             }
 
         }

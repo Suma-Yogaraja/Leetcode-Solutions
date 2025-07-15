@@ -5,7 +5,7 @@ Here, I solve algorithm and data structure problems from LeetCode to strengthen 
 
 🚀 What’s Inside
 •  Solutions organized by difficulty and problem name
-•  Implementations mainly in Java (add other languages if you use them)
+•  Implementations mainly in Java
 •  Clean, well-commented code to help understand my approach
 •  Regular updates with new problems as I progress
 
@@ -14,7 +14,7 @@ Here, I solve algorithm and data structure problems from LeetCode to strengthen 
 •  Build a strong foundation for backend and general software development
 
 🔍 How to Use This Repo
-•  Feel free to explore the problems and my solutions! If you want, you can:
+•  Feel free to explore the problems and my solutions!
 •  Review the code to learn different approaches
 •  Suggest improvements or optimizations
 •  Reach out if you want to collaborate on coding challenges

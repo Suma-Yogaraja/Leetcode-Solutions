@@ -1,4 +1,4 @@
-A collection of LeetCode questions that I solves so far
+A collection of LeetCode questions that I solved so far
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List

@@ -1,4 +1,29 @@
-A collection of LeetCode questions that I solved so far
+Leetcode Solutions 🧩
+Welcome to my Leetcode-Solutions repository!
+
+Here, I solve algorithm and data structure problems from LeetCode to strengthen my problem-solving skills.
+
+🚀 What’s Inside
+•  Solutions organized by difficulty and problem name
+•  Implementations mainly in Java (add other languages if you use them)
+•  Clean, well-commented code to help understand my approach
+•  Regular updates with new problems as I progress
+
+🎯 My Goals
+•  Improve algorithmic thinking and coding efficiency
+•  Build a strong foundation for backend and general software development
+
+🔍 How to Use This Repo
+•  Feel free to explore the problems and my solutions! If you want, you can:
+•  Review the code to learn different approaches
+•  Suggest improvements or optimizations
+•  Reach out if you want to collaborate on coding challenges
+
+📫 Contact Me
+If you have feedback or want to connect, feel free to reach out via:
+suma.yogaraja@gmail.com
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List

@@ -15,6 +15,7 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
+        //solving problem using post order DFS recursive 
         if(root==null)
             return 0;
         int left=maxDepth(root.left);

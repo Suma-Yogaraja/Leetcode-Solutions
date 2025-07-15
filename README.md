@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
 ## Tree
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

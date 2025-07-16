@@ -81,6 +81,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0071-simplify-path) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1666-make-the-string-great) |
@@ -143,6 +144,7 @@ suma.yogaraja@gmail.com
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -158,4 +160,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->

@@ -39,7 +39,7 @@ class Solution {
       if(currDiff<minDiff){
        minDiff=currDiff;
        closest=node.val;   
-       System.out.println(closest);
+       //System.out.println(closest);
       }
       if(currDiff==minDiff)
         {

@@ -59,6 +59,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -110,6 +111,7 @@ suma.yogaraja@gmail.com
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -124,6 +126,7 @@ suma.yogaraja@gmail.com
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -148,6 +151,7 @@ suma.yogaraja@gmail.com
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |

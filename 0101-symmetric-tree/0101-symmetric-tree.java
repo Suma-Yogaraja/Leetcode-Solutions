@@ -30,7 +30,7 @@ class Solution {
             return false;
         if(p.val!=q.val)   
             return false;
-        boolean left=isEqual(p.left,q.right);
+        boolean left=isEqual(p.left,q.right);//here left ree is a mirror of right tree,so comparing p left and q left
         boolean right=isEqual(p.right,q.left);
 
         return left&&right;

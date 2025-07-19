@@ -125,6 +125,7 @@ suma.yogaraja@gmail.com
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -148,6 +149,7 @@ suma.yogaraja@gmail.com
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -169,6 +171,7 @@ suma.yogaraja@gmail.com
 | [0199-binary-tree-right-side-view](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -190,6 +193,7 @@ suma.yogaraja@gmail.com
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -237,5 +241,6 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->

@@ -18,13 +18,12 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> innerList = new ArrayList<>();
         Queue<TreeNode> q = new LinkedList<TreeNode>();
-        boolean dir=true;
+        boolean dir = true;
         int depth = 0;//depth even,from right else from left
         if (root == null)
             return ans;
         q.add(root);
         while (!q.isEmpty()) {
-             
             int size = q.size();
             innerList = new ArrayList<>();
             for (int i = 0; i < size; i++) {
@@ -34,18 +33,14 @@ class Solution {
                     q.add(node.left);
                 if (node.right != null)
                     q.add(node.right);
-                  
             }
-
-            if(dir)
+            if (dir)
                 ans.add(innerList);
             else {
-                //do two pointers ?
                 Collections.reverse(innerList);
                 ans.add(innerList);
             }
-            dir=!dir;
-
+            dir = !dir;
         }
         return ans;
     }

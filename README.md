@@ -102,6 +102,7 @@ suma.yogaraja@gmail.com
 | [0015-3sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
@@ -279,4 +280,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

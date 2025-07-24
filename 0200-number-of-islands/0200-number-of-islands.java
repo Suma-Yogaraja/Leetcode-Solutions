@@ -5,7 +5,7 @@ class Solution {
         int isLand=0;
         int m=grid.length;
         int n=grid[0].length;
-        System.out.println(m +" : " + n);
+        //System.out.println(m +" : " + n);
         visited=new boolean[m][n];  
        /* 2.Loop through all elments of grid
          2.1 check if visted[row,col] is false and is land(=1) 

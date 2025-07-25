@@ -4,23 +4,21 @@ class Solution {
     public int reachableNodes(int n, int[][] edges, int[] restricted) {
         //first convert grid array to adj 
         restrict = new HashSet<>();
+        int reach=0;
         Map<Integer, List<Integer>> graph = new HashMap<>();
         boolean[] visited = new boolean[n];
-        int reach =0;
         for (int i = 0; i < n; i++) {
             graph.put(i, new ArrayList<>());
         }
         for (int edge[] : edges) {
-            int from = edge[0];
-            int to = edge[1];
-            graph.get(from).add(to);
-            graph.get(to).add(from);
+            graph.get(edge[0]).add(edge[1]);
+            graph.get(edge[1]).add(edge[0]);
         }
         //initilaize the set
         for (int i : restricted)
             restrict.add(i);
         //start with node 0,call ddfs
-        reach += dfs(0, graph, visited);
+         reach= reach+dfs(0, graph, visited);
         return reach;
     }
 

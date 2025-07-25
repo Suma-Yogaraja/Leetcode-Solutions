@@ -6,7 +6,7 @@ class Solution {
 
     public int maxAreaOfIsland(int[][] grid) {
         maxArea = 0;
-        int area=1;
+        int area;
         m = grid.length;
         n = grid[0].length;
         visited = new boolean[m][n];

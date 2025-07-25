@@ -25,8 +25,7 @@ class Solution {
     int dfs(int node, Map<Integer, List<Integer>> graph, boolean[] visited) {
         //dfs check its neighbour node and check if its not in restricted set and not visited before
         int reach = 1;
-        if(visited[node] || restrict.contains(node))
-            return 0;
+        
         visited[node] = true;
         for (int neighbour : graph.get(node)) {
             if (!visited[neighbour] && !restrict.contains(neighbour)) {

@@ -8,15 +8,14 @@ class Solution {
         while (e < nums.length) {
             if (s <= e && nums[e] != 0) {
                 e++;
-
+                maxi = Math.max(maxi, e - s);
             }
-
             else {
                 e++;
                s=e;
             }
 
-            maxi = Math.max(maxi, e - s);
+            
         }
         return maxi;
     }

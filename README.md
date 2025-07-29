@@ -44,6 +44,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -104,6 +105,7 @@ suma.yogaraja@gmail.com
 | [0011-container-with-most-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
@@ -267,6 +269,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |

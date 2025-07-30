@@ -89,6 +89,7 @@ suma.yogaraja@gmail.com
 | [0071-simplify-path](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -293,6 +294,7 @@ suma.yogaraja@gmail.com
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Backtracking
@@ -345,4 +347,12 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

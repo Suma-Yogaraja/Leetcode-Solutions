@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        //take a hashmpa,key as number and value as target -num
+        //take a hashmpa,key as number and value as index
         Map<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
             if(map.containsKey(target-nums[i])){

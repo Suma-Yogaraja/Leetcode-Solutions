@@ -102,6 +102,7 @@ suma.yogaraja@gmail.com
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -282,6 +283,7 @@ suma.yogaraja@gmail.com
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |

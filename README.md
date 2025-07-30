@@ -52,6 +52,7 @@ suma.yogaraja@gmail.com
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -117,6 +118,7 @@ suma.yogaraja@gmail.com
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |
+| [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0695-max-area-of-island) |
@@ -257,6 +259,7 @@ suma.yogaraja@gmail.com
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -276,6 +279,7 @@ suma.yogaraja@gmail.com
 | [0016-3sum-closest](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Greedy
@@ -288,6 +292,7 @@ suma.yogaraja@gmail.com
 | [0001-two-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Backtracking

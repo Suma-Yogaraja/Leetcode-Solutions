@@ -1,6 +1,6 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        //keep both array in 2 sets and check for intersextion elemnts
+        //keep both array in 2 sets and check for intersection elemnts
         //this way we can remove duplicates
         //sort both the array and take tow pointers,check if elemnt at i=i-1,if so duplicate is present
         //soincrement the pointer ,same holds for other array

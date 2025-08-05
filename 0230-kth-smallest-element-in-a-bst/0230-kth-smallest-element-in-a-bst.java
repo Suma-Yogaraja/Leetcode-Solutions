@@ -20,11 +20,11 @@ class Solution {
         //return kth elemnt in that array
         List<Integer> res=new ArrayList<>();
         inOrder(root,res);
-        int[] ans=new int[res.size()];
-        for(int i=0;i<res.size();i++){
-            ans[i]=res.get(i);
-        }
-        return ans[--k];
+        // int[] ans=new int[res.size()];
+        // for(int i=0;i<res.size();i++){
+        //     ans[i]=res.get(i);
+        // }
+        return res.get(k-1);
     }
     void inOrder(TreeNode node,List<Integer> res){
         if(node==null)

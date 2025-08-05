@@ -158,6 +158,7 @@ suma.yogaraja@gmail.com
 | [0129-sum-root-to-leaf-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
@@ -193,6 +194,7 @@ suma.yogaraja@gmail.com
 | [0199-binary-tree-right-side-view](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
@@ -260,6 +262,7 @@ suma.yogaraja@gmail.com
 | [0129-sum-root-to-leaf-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
@@ -343,6 +346,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |

@@ -4,6 +4,7 @@ class Solution {
         Queue<String> q=new LinkedList<>();
         Set<String> bankSet=new HashSet<>(Arrays.asList(bank));
         Set<String> visited=new HashSet<>();
+        char[] words={ 'A','C','G','T'};
         int steps=0;
         // if(!bankSet.contains(endGene))
         //     return -1;
@@ -17,7 +18,7 @@ class Solution {
                     return steps;
                 //change a word in the string check if its there in bank
                 for(int j=0;j<cell.length();j++){
-                    for(char c='A';c<='Z';c++){
+                    for(char c:words){
                         String word=replace(cell,c,j);
                         //System.out.println(word);
                         if(!bankSet.contains(word) || visited.contains(word))

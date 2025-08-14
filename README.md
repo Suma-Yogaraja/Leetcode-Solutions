@@ -96,6 +96,7 @@ suma.yogaraja@gmail.com
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
@@ -248,6 +249,7 @@ suma.yogaraja@gmail.com
 | [0226-invert-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0433-minimum-genetic-mutation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0542-01-matrix) |
@@ -356,6 +358,7 @@ suma.yogaraja@gmail.com
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |

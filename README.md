@@ -77,9 +77,11 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -454,4 +456,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

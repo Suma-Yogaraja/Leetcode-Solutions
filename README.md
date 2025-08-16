@@ -85,6 +85,7 @@ suma.yogaraja@gmail.com
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ suma.yogaraja@gmail.com
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2102-find-the-middle-index-in-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Tree
 |  |
@@ -240,6 +242,7 @@ suma.yogaraja@gmail.com
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
@@ -279,6 +282,7 @@ suma.yogaraja@gmail.com
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -411,6 +415,7 @@ suma.yogaraja@gmail.com
 | [0547-number-of-provinces](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Matrix
 |  |
@@ -463,6 +468,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Bit Manipulation
 |  |
 | ------- |

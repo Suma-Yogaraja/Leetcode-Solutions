@@ -155,6 +155,7 @@ suma.yogaraja@gmail.com
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1127-last-stone-weight](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
@@ -473,4 +474,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->

@@ -5,13 +5,12 @@ class Solution {
             heap.add(pile);
 
         int stoneSum=0;
-        int i=0;
-        while(i<k){
+        while(k>0){
             int max=heap.remove();
            // System.out.println("remove :" + max);
             //System.out.println("ciel is" +(int)Math.ceil(max/2.0) );
             heap.add((int)Math.ceil(max/2.0));
-            i++;
+            k--;
         }
             while(!heap.isEmpty()){
                 //System.out.println(stoneSum);

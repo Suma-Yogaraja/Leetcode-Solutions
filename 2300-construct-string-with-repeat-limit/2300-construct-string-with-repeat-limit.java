@@ -2,9 +2,7 @@ class Solution {
     public String repeatLimitedString(String s, int repeatLimit) {
         //im using int[] array to store the frequency
         int[] freq = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            // System.out.println(ch-'a');
+        for (char ch:s.toCharArray()) {
             freq[ch - 'a']++;
         }
         //use stringbuilder to store the result array

@@ -51,6 +51,7 @@ suma.yogaraja@gmail.com
 | [0027-remove-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -100,6 +101,7 @@ suma.yogaraja@gmail.com
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |

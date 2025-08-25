@@ -1,9 +1,10 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        
+    public boolean isPalindrome(String s) { 
+        if(s.length()<1)
+            return true;
         s= s.replaceAll("[^a-zA-Z0-9]","");
         s=s.toLowerCase();
-        if(s==null || s.length()==1)return true;
+        if(s.length()==1)return true;
         //System.out.println(s);
         int start=0;int end=s.length()-1;
         while(start<end){
@@ -12,7 +13,6 @@ class Solution {
             start++;
             end--;
         }
-        return true;
-        
+        return true;  
     }
 }

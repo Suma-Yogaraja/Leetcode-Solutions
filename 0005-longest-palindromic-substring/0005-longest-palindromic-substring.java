@@ -1,47 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
-
-        //edge case if string is null or 1
-        if(s.length()<=1)
+        //using expand around center approach
+        if(s.length()<=1)//edge case
             return s;
-        //map creation ,use character as key,its index as values
-        Map<Character,List<Integer>> map=new HashMap<>();
-        int resStart=0;
-        int maxLength=1;
+        //s=s.toLowerCase();
+        int len=0;
+        int start=0;
+        int end=0;
         for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            List<Integer> index=map.get(ch);
-            if(index==null)
-                index=new ArrayList<>();
-            index.add(i);
-            map.put(ch,index);
-        }
-        //now for each chaindex of a character,check for palindrom
-        for(char key:map.keySet()){
-            List<Integer> values=map.get(key);
-          for(int i=0;i<values.size();i++){
-            for(int j=i+1;j<values.size();j++){
-                int start=values.get(i);
-                int end=values.get(j);
-                if(isPalindrome(start,end,s) && (end-start+1)>maxLength){
-                    maxLength=end-start+1;
-                    resStart=start;
-                }
+            //lets say we have got odd numbered palindrom
+            int len1=expandAoundCenter(s,i,i);
+            int len2=expandAoundCenter(s,i,i+1);//even numbered palindrome has 2 centers
+           // System.out.println(len1 + " :" + len2);
+            len=Math.max(len1,len2);//get the max palindrome 
+            if(len>end-start){
+                //we got new palindrome of higher length at center i
+                start= i-(len-1)/2;
+                end=i+len/2 ;  
             }
-          }
         }
-        return s.substring(resStart,resStart+maxLength);
+             
+        return s.substring(start,end+1);
     }
-    private boolean isPalindrome(int start,int end,String s){
-        if(start-end==0 || s.length()<=1)
-            return true;
-        while(start<=end){
-            if(s.charAt(start)!=(s.charAt(end)))
-                return false;
-            start++;
-            end--;
+    private int expandAoundCenter(String s,int left,int right){
+        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right)){
+            left--;
+            right++;
         }
-        return true;
+        return right-left-1;//cause at last iteration the charcaters not equal and come out of while loop so actual length is from left+1 to right-1
     }
 }
 

@@ -88,6 +88,7 @@ suma.yogaraja@gmail.com
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |

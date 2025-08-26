@@ -56,6 +56,7 @@ suma.yogaraja@gmail.com
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -108,6 +109,7 @@ suma.yogaraja@gmail.com
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0443-string-compression) |
@@ -476,6 +478,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0542-01-matrix) |
 ## Trie
 |  |

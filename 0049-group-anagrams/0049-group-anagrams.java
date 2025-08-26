@@ -3,17 +3,10 @@ class Solution {
         //first create frq[] array for each word and check for that key
         Map<String,List<String>> map=new HashMap<>();
         for(String s:strs){
-            int[] freq=new int[26];
-            StringBuilder sb=new StringBuilder();
-            for(int i=0;i<26;i++){
-               for(char c:s.toCharArray())
-                 freq[c-'a']++;
-            }
-            for(int i:freq){
-                sb.append(i);
-                sb.append("#");
-            }
-            String key=sb.toString();
+          char[] c=s.toCharArray();
+          Arrays.sort(c);
+          String key=new String(c);
+           // String key=sb.toString();
             List<String> group=map.getOrDefault(key,new ArrayList<>());//if key not found
             group.add(s);
             map.put(key,group);

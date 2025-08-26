@@ -9,12 +9,9 @@ class Solution {
         for(int i=0;i<t.length()&&sPointer<s.length() ;i++){
             char ch=s.charAt(sPointer);
             if(t.charAt(i)==ch){
-                if(sPointer<s.length())
                    sPointer++;
-                // else
-                //  return true; 
             }
         }
-        return sPointer==s.length()?true: false;
+        return sPointer==s.length();
     }
 }

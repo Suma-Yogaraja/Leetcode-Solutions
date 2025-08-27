@@ -2,6 +2,8 @@ class Solution {
     public void rotate(int[] nums, int k) {
         //1234567 -> 5671234
         k=k%nums.length;
+        if(k==0)
+            return;
         Queue<Integer> q=new LinkedList<>();
         int j=0;
         for(int i=0;i<=nums.length-k-1;i++)//i=0;i<7-3=4

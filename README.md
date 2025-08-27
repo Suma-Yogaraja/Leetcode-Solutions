@@ -150,6 +150,7 @@ suma.yogaraja@gmail.com
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -379,6 +380,7 @@ suma.yogaraja@gmail.com
 | [0015-3sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |

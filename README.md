@@ -59,6 +59,7 @@ suma.yogaraja@gmail.com
 | [0283-move-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -166,6 +167,7 @@ suma.yogaraja@gmail.com
 | [0283-move-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -364,6 +366,7 @@ suma.yogaraja@gmail.com
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -394,6 +397,7 @@ suma.yogaraja@gmail.com
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -423,6 +427,7 @@ suma.yogaraja@gmail.com
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |

@@ -197,6 +197,7 @@ suma.yogaraja@gmail.com
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2102-find-the-middle-index-in-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -405,12 +406,14 @@ suma.yogaraja@gmail.com
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0011-container-with-most-water) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Hash Table

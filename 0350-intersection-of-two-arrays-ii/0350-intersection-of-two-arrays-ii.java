@@ -12,7 +12,7 @@ class Solution {
             if(map2.containsKey(key)){
                  count=Math.min(map1.get(key),map2.get(key));
                  while(count>0){
-                    System.out.println(key);
+                    //System.out.println(key);
                     res.add(key);
                     count--;
                  }

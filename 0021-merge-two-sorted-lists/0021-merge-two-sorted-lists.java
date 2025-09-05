@@ -20,17 +20,20 @@ class Solution {
        
         ListNode l1=list1;
         ListNode l2=list2;
-        ListNode merged;
+        ListNode merged=new ListNode(-1);
+        ListNode dummy=merged;
         if(l1.val<=l2.val){
-            merged=l1;
+            dummy.next=l1;
             l1=l1.next;
+             dummy=dummy.next;
         }
         else{
-            merged=l2;
+            dummy.next=l2;
             l2=l2.next;
+             dummy=dummy.next;
         }
           
-        ListNode dummy=merged;
+        
         //System.out.println(dummy.val);
         while(l1!=null && l2!=null){
             //System.out.println(l1.val + ":" + l2.val);
@@ -52,6 +55,6 @@ class Solution {
             else if(l1!=null)
                 dummy.next=l1;
         
-       return merged;
+       return merged.next;
     }
 }

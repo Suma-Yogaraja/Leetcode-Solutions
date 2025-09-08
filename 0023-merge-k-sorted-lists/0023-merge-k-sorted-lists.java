@@ -12,7 +12,7 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists==null || lists.length==0)
             return null;
-            System.out.println(lists.length);
+           // System.out.println(lists.length);
         PriorityQueue<ListNode> pq=new PriorityQueue<>((a,b)->a.val-b.val);
         for(ListNode list:lists){
             if(list!=null)

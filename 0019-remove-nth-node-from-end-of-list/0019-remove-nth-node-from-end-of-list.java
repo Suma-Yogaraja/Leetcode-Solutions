@@ -10,18 +10,20 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode dummy=new ListNode(0);
+        dummy.next=head;
         if(head==null)
             return head;
-        if(head.next==null && n==1)
-            return null;
+        // if(head.next==null && n==1)
+        //     return null;
         //im making use of tow pointer + sliding window,create a window of size n then move
-        ListNode slow=head;
-        ListNode fast=head;
-        for(int i=0;i<n;i++)
+        ListNode slow=dummy;
+        ListNode fast=dummy;
+        for(int i=0;i<=n;i++)
             fast=fast.next;
-         if(fast==null)
-            return slow.next;
-        while(fast!=null && fast.next!=null){
+        //  if(fast==null)
+        //     return slow.next;
+        while(fast!=null){
             slow=slow.next;
             fast=fast.next;
         }
@@ -30,7 +32,7 @@ class Solution {
         
 
         slow.next=slow.next.next;
-        return head;
+        return dummy.next;
     }
 }
 

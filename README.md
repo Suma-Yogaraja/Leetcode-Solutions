@@ -196,6 +196,7 @@ suma.yogaraja@gmail.com
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
+| [0792-binary-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -386,6 +387,7 @@ suma.yogaraja@gmail.com
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window

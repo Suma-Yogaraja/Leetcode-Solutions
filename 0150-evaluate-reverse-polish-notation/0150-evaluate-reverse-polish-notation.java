@@ -3,26 +3,28 @@ class Solution {
 
         Stack<Integer> num = new Stack<>();
         for (String x : tokens) {
+            int a;
+            int b;
             switch (x) {
                 case "+":
-                    int add1 = Integer.valueOf(num.pop());
-                    int add2 = Integer.valueOf(num.pop());
-                    num.push(add1 + add2);
+                     a = Integer.valueOf(num.pop());
+                     b = Integer.valueOf(num.pop());
+                    num.push(a + b);
                     break;
                 case "-":
-                    int sub1 = Integer.valueOf(num.pop());
-                    int sub2 = Integer.valueOf(num.pop());
-                    num.push(sub2- sub1);
+                     a = Integer.valueOf(num.pop());
+                     b = Integer.valueOf(num.pop());
+                    num.push(b- a);
                     break;
                 case "/":
-                    int divisor = Integer.valueOf(num.pop());
-                    int divident = Integer.valueOf(num.pop());
-                    num.push(divident / divisor);
+                     a = Integer.valueOf(num.pop());
+                     b = Integer.valueOf(num.pop());
+                    num.push(b / a);
                     break;
                 case "*":
-                    int mult1 = Integer.valueOf(num.pop());
-                    int mult2 = Integer.valueOf(num.pop());
-                    num.push(mult1 * mult2);
+                     a = Integer.valueOf(num.pop());
+                     b = Integer.valueOf(num.pop());
+                    num.push(a * b);
                     break;
                 default:
                     num.push(Integer.valueOf(x));

@@ -12,7 +12,7 @@ class Solution {
                 case "-":
                     int sub1 = Integer.valueOf(num.pop());
                     int sub2 = Integer.valueOf(num.pop());
-                    num.push(sub1 - sub2);
+                    num.push(sub2- sub1);
                     break;
                 case "/":
                     int divisor = Integer.valueOf(num.pop());

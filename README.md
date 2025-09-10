@@ -222,6 +222,7 @@ suma.yogaraja@gmail.com
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Tree
 |  |
@@ -397,6 +398,7 @@ suma.yogaraja@gmail.com
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -410,6 +412,7 @@ suma.yogaraja@gmail.com
 | [0560-subarray-sum-equals-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -435,6 +438,7 @@ suma.yogaraja@gmail.com
 | [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -445,6 +449,7 @@ suma.yogaraja@gmail.com
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |

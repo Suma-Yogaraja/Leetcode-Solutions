@@ -226,6 +226,7 @@ suma.yogaraja@gmail.com
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@ suma.yogaraja@gmail.com
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -308,6 +310,7 @@ suma.yogaraja@gmail.com
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -384,6 +387,7 @@ suma.yogaraja@gmail.com
 | [1254-deepest-leaves-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -402,6 +406,7 @@ suma.yogaraja@gmail.com
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -498,6 +503,7 @@ suma.yogaraja@gmail.com
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |

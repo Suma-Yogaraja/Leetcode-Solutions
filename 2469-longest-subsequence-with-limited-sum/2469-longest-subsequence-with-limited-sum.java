@@ -8,7 +8,7 @@ class Solution {
             int[] ans=new int[queries.length];
             for(int j=0;j<queries.length;j++){
                 int q=queries[j];
-                System.out.println("queries:" +q);
+                //System.out.println("queries:" +q);
                 //aplly binary serach
                 int left=0;
                 int right=nums.length-1;

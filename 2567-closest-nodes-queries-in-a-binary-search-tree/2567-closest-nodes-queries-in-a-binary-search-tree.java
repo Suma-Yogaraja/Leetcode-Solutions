@@ -26,7 +26,7 @@ class Solution {
             sorted[i] = res.get(i);
         //System.out.println(sorted[i]);
         for (int i = 0; i < queries.size(); i++) {
-            List<Integer> list = new ArrayList<>();
+           // List<Integer> list = new ArrayList<>();
             int q = queries.get(i);
 
             // if (sorted[0] == q || sorted[sorted.length - 1] == q)

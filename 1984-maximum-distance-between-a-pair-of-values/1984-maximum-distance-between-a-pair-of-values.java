@@ -1,12 +1,14 @@
 class Solution {
     public int maxDistance(int[] nums1, int[] nums2) {
-        int maxDist=Integer.MIN_VALUE;
+        int maxDist=0;
 
        for(int i=0;i<nums1.length;i++){
            int lastIndex=binarySearch(nums2,i,nums2.length-1,nums1[i]);
-            maxDist=Math.max(maxDist,lastIndex-i-1);
+           int j=lastIndex-1;
+           if(j>=i)
+             maxDist=Math.max(maxDist,j-i);
        }
-       return (maxDist==-1)?0:maxDist;
+       return maxDist;
     }
     private int binarySearch(int[] nums,int left,int right,int target){
         while(left<=right){

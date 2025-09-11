@@ -216,6 +216,7 @@ suma.yogaraja@gmail.com
 | [1171-shortest-path-in-binary-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -309,6 +310,7 @@ suma.yogaraja@gmail.com
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -349,6 +351,7 @@ suma.yogaraja@gmail.com
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -407,6 +410,7 @@ suma.yogaraja@gmail.com
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -517,6 +521,7 @@ suma.yogaraja@gmail.com
 | [0547-number-of-provinces](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
@@ -543,6 +548,7 @@ suma.yogaraja@gmail.com
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
@@ -609,6 +615,7 @@ suma.yogaraja@gmail.com
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |

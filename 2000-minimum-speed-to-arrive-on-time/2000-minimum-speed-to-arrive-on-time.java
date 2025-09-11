@@ -7,7 +7,7 @@ class Solution {
         //speed boundry given in the problem,10^7 
         limit=hour;
         int left=1;
-        int right=(int)Math.pow(10,8);
+        int right=(int)Math.pow(10,7);
         while(left<=right){
             int mid=left+(right-left)/2;
             if(check(mid,dist))

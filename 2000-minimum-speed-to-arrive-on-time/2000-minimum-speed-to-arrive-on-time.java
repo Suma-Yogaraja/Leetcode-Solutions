@@ -1,0 +1,29 @@
+class Solution {
+    double limit;
+    public int minSpeedOnTime(int[] dist, double hour) {
+        if(dist.length>Math.ceil(hour))
+            return -1;
+        //distance/timetaken=speed
+        //speed boundry given in the problem,10^7 
+        limit=hour;
+        int left=1;
+        int right=(int)Math.pow(10,8);
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(check(mid,dist))
+                right=mid-1;
+            else
+                left=mid+1;
+        }
+        return left;
+    }
+    private boolean check(int speed,int[] dist){
+        double t=0;
+        for(double distance:dist){
+            t= Math.ceil(t);
+            t+=distance/speed;
+
+        }
+        return t<=limit;
+    }
+}

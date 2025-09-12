@@ -1,9 +1,9 @@
 class Solution {
     public int maximizeSweetness(int[] sweetness, int k) {
        // Arrays.sort(sweetness);
-        int left=0,right=0;
+        int left=1,right=0;
         for(int sweet :sweetness){
-            left=Math.min(left,sweet);
+            //left=Math.min(left,sweet);
             right+=sweet;
         }
         int ans=right;

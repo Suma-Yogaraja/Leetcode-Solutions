@@ -9,12 +9,12 @@ class Solution {
         int ans=right;
         while(left<=right){
             int mid=left+(right-left)/2;
-            if(isValidCut(sweetness,k,mid)){
+            if(isValidCut(sweetness,k+1,mid)){
                 ans=mid;
-                right=mid-1;
+                left=mid+1;
             }
             else
-                left=mid+1;
+                right=mid-1;
         }
         return ans;
     }
@@ -22,15 +22,14 @@ class Solution {
         int currCut=0;
         int currSweetness=0;
         for(int sweet:sweetness){
-            if(currSweetness+sweet>maxSweet){
+            if(currSweetness+sweet>=maxSweet){
                 currCut++;
                 currSweetness=0;
-                if(currCut>cuts)
-                    return false;
+                
             }
             else
                 currSweetness+=sweet;
         }
-        return true;
+        return currCut>=cuts;
     }
 }

@@ -589,6 +589,7 @@ suma.yogaraja@gmail.com
 | [0004-median-of-two-sorted-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -622,6 +623,7 @@ suma.yogaraja@gmail.com
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0461-hamming-distance) |
 ## Heap (Priority Queue)

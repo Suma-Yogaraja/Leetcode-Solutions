@@ -623,6 +623,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0461-hamming-distance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

@@ -111,6 +111,7 @@ suma.yogaraja@gmail.com
 | [0009-palindrome-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -186,6 +187,7 @@ suma.yogaraja@gmail.com
 | [0189-rotate-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -412,6 +414,7 @@ suma.yogaraja@gmail.com
 | [0035-search-insert-position](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -459,6 +462,7 @@ suma.yogaraja@gmail.com
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -500,6 +504,7 @@ suma.yogaraja@gmail.com
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -626,6 +631,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0136-single-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0461-hamming-distance) |
 ## Heap (Priority Queue)

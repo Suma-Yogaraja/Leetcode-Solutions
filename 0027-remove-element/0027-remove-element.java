@@ -6,15 +6,7 @@ class Solution {
         int temp=0;
         while(start<=end){
             if(nums[start]==val){
-                //System.out.println(start + " :" + end);
-                //count++;
-                nums[start]=-1;
-                //swap with last elemnt
-                temp=nums[start];
-                nums[start]=nums[end];
-                nums[end]=temp;
-                //System.out.println("start and end is " + nums[start] + " :" + nums[end]);
-                //start++;
+               nums[start]=nums[end];
                 end--;
             }
             else{

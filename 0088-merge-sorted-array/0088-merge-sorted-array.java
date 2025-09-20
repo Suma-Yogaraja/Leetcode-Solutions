@@ -8,8 +8,8 @@ class Solution {
         int ptr1=m-1;
         int ptr2=n-1;
         int idx=nums1.length-1;
-        System.out.println("index" + idx);
-        System.out.println(ptr1+ " " + ptr2);
+        //System.out.println("index" + idx);
+        //System.out.println(ptr1+ " " + ptr2);
         while(ptr1>=0 && ptr2>=0){
             System.out.println(ptr1 + " : " + ptr2);
             if(nums1[ptr1]>=nums2[ptr2]){

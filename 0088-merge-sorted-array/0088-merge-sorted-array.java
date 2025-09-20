@@ -11,7 +11,7 @@ class Solution {
         //System.out.println("index" + idx);
         //System.out.println(ptr1+ " " + ptr2);
         while(ptr1>=0 && ptr2>=0){
-            System.out.println(ptr1 + " : " + ptr2);
+            //System.out.println(ptr1 + " : " + ptr2);
             if(nums1[ptr1]>=nums2[ptr2]){
                 nums1[idx]=nums1[ptr1--];
                 

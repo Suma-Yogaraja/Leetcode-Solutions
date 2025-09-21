@@ -174,6 +174,7 @@ suma.yogaraja@gmail.com
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
@@ -489,6 +490,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -588,6 +590,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

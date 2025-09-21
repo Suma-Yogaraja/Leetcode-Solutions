@@ -195,6 +195,7 @@ suma.yogaraja@gmail.com
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -470,6 +471,7 @@ suma.yogaraja@gmail.com
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -696,4 +698,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

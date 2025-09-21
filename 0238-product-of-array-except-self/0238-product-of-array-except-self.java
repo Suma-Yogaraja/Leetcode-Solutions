@@ -12,13 +12,15 @@ class Solution {
         int[] suffixProduct=new int[nums.length];
         suffixProduct[nums.length-1]=1;
         for(int j=nums.length-2;j>=0;j--){
+            
              suffixProduct[j]=suffixProduct[j+1]*nums[j+1]; 
+             res[j]=res[j]*suffixProduct[j];
             // System.out.println(suffixProduct[j]);
 
         }
-        for(int i=0;i<nums.length;i++){
-            res[i]=res[i]*suffixProduct[i];
-        }
+        // for(int i=0;i<nums.length;i++){
+        //     res[i]=res[i]*suffixProduct[i];
+        // }
         return res;
     }
 }

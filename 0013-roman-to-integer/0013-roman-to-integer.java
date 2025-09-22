@@ -1,5 +1,7 @@
 class Solution {
     public int romanToInt(String s) {
+        // if(s==null)
+        //     return 0;
         Map<Character,Integer> dict=new HashMap<>();
         dict.put('I',1);
         dict.put('V',5);
@@ -8,6 +10,8 @@ class Solution {
         dict.put('C',100);
         dict.put('D',500);
         dict.put('M',1000);
+        if(s.length()==1)
+            return dict.get(s.charAt(0));
         int[] values=new int[s.length()];
         for(int i=0;i<values.length;i++){
             char c=s.charAt(i);

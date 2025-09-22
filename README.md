@@ -188,6 +188,7 @@ suma.yogaraja@gmail.com
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -501,6 +502,7 @@ suma.yogaraja@gmail.com
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |

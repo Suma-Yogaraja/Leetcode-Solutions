@@ -12,7 +12,7 @@ class Solution {
         for(int i=0;i<values.length;i++){
             char c=s.charAt(i);
             values[i]=dict.get(c);
-            System.out.println(values[i]);
+           // System.out.println(values[i]);
         }
         int romanValue=0;
         for(int j=1;j<values.length;j++){

@@ -6,8 +6,8 @@ class Solution {
         for (int i = 0; i < boxTypes.length; i++) {
             int box = boxTypes[i][0];
             int unit = boxTypes[i][1];
-            System.out.println(box + " :" + unit);
-            System.out.println("trucksize is " + truckSize);
+            // System.out.println(box + " :" + unit);
+            // System.out.println("trucksize is " + truckSize);
             if(truckSize<=0)
                 break;
             if (box <= truckSize) {

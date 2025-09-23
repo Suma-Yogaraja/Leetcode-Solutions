@@ -9,8 +9,10 @@ class Solution {
             if((people[start]+people[end])<=limit){
                 start++;
             }
+            
             end--;
             boat++;
+            // if(start==end)break;
         }
         return boat;
     }

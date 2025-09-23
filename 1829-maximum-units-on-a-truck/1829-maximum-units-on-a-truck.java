@@ -15,9 +15,9 @@ class Solution {
                 // System.out.println("total unit is " +totalUnit);
                 truckSize -= box;
             } else {
-                box = Math.min(box, truckSize);
+                
                 //  System.out.println("box is " + box);
-                totalUnit += box * unit;
+                totalUnit += truckSize * unit;
                 //   System.out.println("total unit is " +totalUnit);
                 truckSize -= box;
             }

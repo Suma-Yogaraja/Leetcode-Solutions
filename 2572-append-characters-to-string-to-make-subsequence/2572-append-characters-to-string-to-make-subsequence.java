@@ -6,11 +6,11 @@ class Solution {
         while(ptr1<s.length() && ptr2<t.length()){
             if(s.charAt(ptr1)==t.charAt(ptr2)){
                 ptr2++;
-                System.out.println("im ptr2" + ptr2);
+                // System.out.println("im ptr2" + ptr2);
             }
             ptr1++;
         }
-        System.out.println(ptr1 + " " + ptr2);
+        // System.out.println(ptr1 + " " + ptr2);
        return t.length()-ptr2;
     }
 }

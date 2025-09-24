@@ -8,7 +8,7 @@ class Solution {
         while(i<players.length && j<trainers.length){
             //if its a match
             if(players[i]<=trainers[j]){
-                System.out.println("its am macth"+ trainers[j]);
+                // System.out.println("its am macth"+ trainers[j]);
                 match++;//its a match
                 i++;
                 j++;

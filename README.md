@@ -84,6 +84,7 @@ suma.yogaraja@gmail.com
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +163,7 @@ suma.yogaraja@gmail.com
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -553,6 +555,7 @@ suma.yogaraja@gmail.com
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
 | ------- |

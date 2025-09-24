@@ -163,6 +163,7 @@ suma.yogaraja@gmail.com
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Simulation
@@ -555,6 +556,7 @@ suma.yogaraja@gmail.com
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -591,6 +593,7 @@ suma.yogaraja@gmail.com
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Backtracking
 |  |
@@ -689,6 +692,7 @@ suma.yogaraja@gmail.com
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |
 ## String Matching
 |  |
 | ------- |

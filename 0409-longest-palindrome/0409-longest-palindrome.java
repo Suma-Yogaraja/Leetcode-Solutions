@@ -4,27 +4,26 @@ class Solution {
         Map<Character,Integer> freq=new HashMap<>();
         for(char c:s.toCharArray())
             freq.put(c,freq.getOrDefault(c,0)+1);
-        int[] charFre=new int[freq.size()];
+        // int[] charFre=new int[freq.size()];
         int i=0;
-        for(int value:freq.values())
-            charFre[i++]=value;
-        Arrays.sort(charFre);
+        // for(int value:freq.values())
+        //     charFre[i++]=value;
+        // // Arrays.sort(charFre);
         int ans=0;
-        
-        for(int j=charFre.length-1;j>=0;j--){
-            int element=charFre[j];
-            // System.out.println(element);
+        boolean odd=false;
+        for(int value:freq.values()){
             //if even elemnt consider
-            if(element%2==0){
-                ans+=element;
+            if(value%2==0){
+                ans+=value;
                 // System.out.println("im even");
             }
             else{
                 //aTake even numbers out of it if elemnt is 27,we can take 26 elemnts for forming palindrome
-                    ans+=element-1;
+                    ans+=value-1;
+                    odd=true;
                     // System.out.println("im odd");
             }
         }
-        return ans+1;
+        return odd?ans+1:ans;
     }
 }

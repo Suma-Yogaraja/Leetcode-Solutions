@@ -240,6 +240,7 @@ suma.yogaraja@gmail.com
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -507,6 +508,7 @@ suma.yogaraja@gmail.com
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
@@ -532,6 +534,7 @@ suma.yogaraja@gmail.com
 | [0455-assign-cookies](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0502-ipo) |
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1448-maximum-69-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1448-maximum-69-number) |

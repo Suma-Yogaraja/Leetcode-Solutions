@@ -158,6 +158,7 @@ suma.yogaraja@gmail.com
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1666-make-the-string-great) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -542,6 +543,7 @@ suma.yogaraja@gmail.com
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1448-maximum-69-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |

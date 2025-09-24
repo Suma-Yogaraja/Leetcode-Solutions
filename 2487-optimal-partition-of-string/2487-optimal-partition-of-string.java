@@ -7,12 +7,12 @@ class Solution {
             if(set.contains(c)){
                 //we can count a new substring from here
                 set.clear();//clear all elemnts from set
-                set.add(c);//append this as new element
+                // set.add(c);//append this as new element
                 substringNum++;
             }
-            else{
+            
                 set.add(c);
-            }
+            
         }
         return substringNum;
     }

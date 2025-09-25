@@ -2,8 +2,6 @@ class Solution {
 
     public long makeIntegerBeautiful(long n, int target) {
         //so if problem is actually making digits from right to left zero
-        if(n==target)
-            return 0;
         long number=n;
         long currSum=0;
         int pow=1;

@@ -251,6 +251,7 @@ suma.yogaraja@gmail.com
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1081-video-stitching](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1081-video-stitching) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1127-last-stone-weight) |
@@ -545,6 +546,7 @@ suma.yogaraja@gmail.com
 | [0502-ipo](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0502-ipo) |
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1081-video-stitching](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1081-video-stitching) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1448-maximum-69-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1448-maximum-69-number) |
@@ -668,6 +670,7 @@ suma.yogaraja@gmail.com
 | [0392-is-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0542-01-matrix) |
+| [1081-video-stitching](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1081-video-stitching) |
 ## Trie
 |  |
 | ------- |

@@ -11,15 +11,15 @@ class Solution {
         currSum=digitSum(n);
         if(currSum<=target)
             return 0;
-        System.out.println("currsum is " +currSum);
+        // System.out.println("currsum is " +currSum);
         while(currSum>target){
             digitPlace=(long)(n%Math.pow(10,pow));
-            System.out.println("digit place is  is " +digitPlace);
+            // System.out.println("digit place is  is " +digitPlace);
             if(digitPlace!=0){
                 n=n+(long)(Math.pow(10,pow)-digitPlace);
             }
         
-            System.out.println("value of n is " +n);
+            // System.out.println("value of n is " +n);
             currSum=digitSum(n);
             if(currSum<=target)
                 return n-number;

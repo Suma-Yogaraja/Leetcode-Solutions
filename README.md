@@ -200,6 +200,7 @@ suma.yogaraja@gmail.com
 | [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -606,6 +607,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
@@ -720,6 +722,7 @@ suma.yogaraja@gmail.com
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0191-number-of-1-bits) |

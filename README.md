@@ -194,6 +194,7 @@ suma.yogaraja@gmail.com
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
@@ -604,6 +605,7 @@ suma.yogaraja@gmail.com
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |

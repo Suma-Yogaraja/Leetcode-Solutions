@@ -261,6 +261,7 @@ suma.yogaraja@gmail.com
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1192-divide-chocolate](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1192-divide-chocolate) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -471,6 +472,7 @@ suma.yogaraja@gmail.com
 | [0907-koko-eating-bananas](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1192-divide-chocolate](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1192-divide-chocolate) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -796,4 +798,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->

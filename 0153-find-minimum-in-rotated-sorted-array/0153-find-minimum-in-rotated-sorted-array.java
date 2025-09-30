@@ -15,7 +15,7 @@ class Solution {
             else
                 right=mid;
         }
-    System.out.println("pivot ele is "+left);
+    // System.out.println("pivot ele is "+left);
         return nums[left];
     }
 }

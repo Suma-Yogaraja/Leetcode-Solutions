@@ -11,14 +11,12 @@ class Solution {
                 continue;
             int first=i+1;
             int last=nums.length-1;
-            
             while(first<last){
                 //find sum
                 sum=nums[i]+nums[first]+nums[last];
                 //if sum==0,add elemnts to res list
                 if(sum==0){
                     res.add(Arrays.asList(nums[i],nums[first],nums[last]));
-                    
                  //find uniqness
                  while(first<last && nums[first]==nums[first+1])
                     first++;

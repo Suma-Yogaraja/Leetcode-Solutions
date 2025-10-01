@@ -10,7 +10,7 @@ class Solution {
             }
         }
        for(int i=0;i<queries.length;i++){
-            if(queries[i]<=nums.length && map.containsKey(queries[i]))
+            if(map.containsKey(queries[i]))
                 ans[i]=map.get(queries[i]);
             else
                 ans[i]=-1;

@@ -290,6 +290,7 @@ suma.yogaraja@gmail.com
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Tree
 |  |
@@ -505,6 +506,7 @@ suma.yogaraja@gmail.com
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |

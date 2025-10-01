@@ -85,6 +85,7 @@ suma.yogaraja@gmail.com
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +170,7 @@ suma.yogaraja@gmail.com
 | [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -585,6 +587,7 @@ suma.yogaraja@gmail.com
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Hash Table
 |  |
 | ------- |

@@ -290,6 +290,7 @@ suma.yogaraja@gmail.com
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -624,6 +625,7 @@ suma.yogaraja@gmail.com
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |

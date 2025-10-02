@@ -120,6 +120,7 @@ suma.yogaraja@gmail.com
 | [0013-roman-to-integer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |

@@ -1,8 +1,6 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        //two pointers
-        int ptr1=0;
-        int ptr2=0;
+        //sliding window
         if(needle.length()>haystack.length())
             return -1;
         for(int i=0;i<haystack.length()-needle.length()+1;i++){

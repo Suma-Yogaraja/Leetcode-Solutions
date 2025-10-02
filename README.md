@@ -54,6 +54,7 @@ suma.yogaraja@gmail.com
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -141,6 +142,7 @@ suma.yogaraja@gmail.com
 | [0014-longest-common-prefix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0071-simplify-path) |
@@ -754,6 +756,7 @@ suma.yogaraja@gmail.com
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |

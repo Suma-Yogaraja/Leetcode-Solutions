@@ -175,6 +175,7 @@ suma.yogaraja@gmail.com
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
@@ -201,6 +202,7 @@ suma.yogaraja@gmail.com
 | [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0057-insert-interval) |
@@ -687,6 +689,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |

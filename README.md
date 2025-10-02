@@ -195,6 +195,7 @@ suma.yogaraja@gmail.com
 | [0033-search-in-rotated-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
@@ -604,6 +605,7 @@ suma.yogaraja@gmail.com
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -684,6 +686,7 @@ suma.yogaraja@gmail.com
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |

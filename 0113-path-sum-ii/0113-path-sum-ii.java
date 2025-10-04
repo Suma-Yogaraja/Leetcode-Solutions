@@ -14,33 +14,25 @@
  * }
  */
 class Solution {
-    int target;
-
+    List<List<Integer>> res;
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        target=targetSum;
-        
-        List<List<Integer>> ans=new ArrayList<>();
-         dfs(root,ans,0,new ArrayList<>());
-        return ans;
-        
+        res=new ArrayList<>();
+        if(root==null)
+            return res;
+        dfs(root,targetSum,0,new ArrayList<>());
+        return res;
     }
-
-    private void dfs(TreeNode root,List<List<Integer>> ans,int curr, List<Integer> innerList){
-            if(root==null)
-                return ;
-            innerList.add(root.val);
-            curr+=root.val;
-
-            if(root.left==null && root.right==null){//leaf node detetcted
-                if(curr==target){
-                    // innerList.add(root.val);
-                    ans.add(new ArrayList<>(innerList));
-                }
-            }
-            
-             dfs(root.left,ans,curr,innerList);
-             dfs(root.right,ans,curr,innerList);
-            innerList.remove(innerList.size()-1);
-  
+    private void dfs(TreeNode node,int targetSum,int currSum,List<Integer> innerList){
+        if(node==null)
+            return;
+        innerList.add(node.val);
+        
+        if(node.left==null && node.right==null){//leaf node
+            if(currSum+node.val==targetSum)
+                 res.add(new ArrayList<>(innerList));
         }
+        dfs(node.left,targetSum,currSum+node.val,innerList);
+        dfs(node.right,targetSum,currSum+node.val,innerList);
+        innerList.remove(innerList.size()-1);
+    }
 }

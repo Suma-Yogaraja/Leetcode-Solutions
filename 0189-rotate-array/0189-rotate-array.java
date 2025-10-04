@@ -11,7 +11,7 @@ class Solution {
     }
     private void reverse(int[] nums,int start,int end){
         int temp=0;
-        System.out.println(end);
+        // System.out.println(end);
         while(start<=end){
             temp=nums[start];
             nums[start]=nums[end];

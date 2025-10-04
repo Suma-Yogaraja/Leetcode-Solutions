@@ -22,10 +22,7 @@ class Solution {
         TreeNode right=dfs(node.right,p,q);
         if(left!=null && right!=null)
             return node;
-        if(node==p){
-            return node;
-        }
-        if(node==q){
+        if(node==p || node==q){
             return node;
         }
         if(left==null)

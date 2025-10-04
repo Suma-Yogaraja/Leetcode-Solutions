@@ -15,11 +15,11 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        //Use BFS to go to a level
         List<List<Integer>> ans=new ArrayList<>();
-        Queue<TreeNode> q=new LinkedList<TreeNode>();
+        //edge cases
         if(root==null)
             return ans;
+        Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
             int size=q.size();
@@ -28,12 +28,13 @@ class Solution {
                 TreeNode node=q.remove();
                 innerList.add(node.val);
                 if(node.left!=null)
-                    q.add(node.left);
+                    q.offer(node.left);
                 if(node.right!=null)
-                    q.add(node.right);
+                    q.offer(node.right);
             }
-            ans.add(innerList);
+          ans.add(innerList);
         }
-            return ans;
+        return ans;
     }
 }
+       

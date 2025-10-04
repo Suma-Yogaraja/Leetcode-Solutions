@@ -18,13 +18,14 @@ class Solution {
     private TreeNode dfs(TreeNode node,TreeNode p,TreeNode q){
         if(node==null)
             return null;
+            if(node==p || node==q){
+            return node;
+        }
         TreeNode left=dfs(node.left,p,q);
         TreeNode right=dfs(node.right,p,q);
         if(left!=null && right!=null)
             return node;
-        if(node==p || node==q){
-            return node;
-        }
+        
         if(left==null)
             return right;
         else

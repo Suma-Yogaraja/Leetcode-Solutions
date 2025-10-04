@@ -1,30 +1,25 @@
 class Solution {
     public boolean isValid(String s) {
-        //create a map that has all paranthesis,keep open paranthesis as key and closed as values
-        Map<Character, Character> map = new HashMap<>();
-        map.put('(', ')');
-        map.put('{', '}');
-        map.put('[', ']');
-        //Now create a stack in order to push  the open paranthesis and pop the closed paranthesis
-        Stack<Character> stack = new Stack<>();
-        for (char c : s.toCharArray()) {
-            //check if open paranthesis
-            if (map.containsKey(c))
-                stack.push(c);
-            //if it is closed paranthesis
-            else {
-                //if stck is empty,then no matck of open paranthesis so return false
-                if (stack.empty())
-                    return false;
-                //we got closed paranthesis ,check it against top of stack
-                char closed = stack.pop();
-                if (map.get(closed) != c)
-                    return false;
-
+        if(s.length()<=1)
+            return false;
+        Map<Character,Character> dict=new HashMap<>();
+        dict.put('(',')');
+        dict.put('{','}');
+        dict.put('[',']');
+       Stack<Character> stack=new Stack<>();
+       for(char c:s.toCharArray()){
+            if(dict.containsKey(c)){//open bracket
+                stack.push(dict.get(c));
+            }
+            else{
+                if(!stack.isEmpty() && c==stack.peek()){
+                    stack.pop();
+                 } 
+                else
+                     return false;
             }
         }
-        return (stack.size()==0);
-
-    }
-
+    return stack.isEmpty();
 }
+}
+       

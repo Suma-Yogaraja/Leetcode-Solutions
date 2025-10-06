@@ -211,6 +211,7 @@ suma.yogaraja@gmail.com
 | [0046-permutations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
@@ -731,6 +732,7 @@ suma.yogaraja@gmail.com
 | [0005-longest-palindromic-substring](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -749,6 +751,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |

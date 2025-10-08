@@ -1,28 +1,70 @@
 class Solution {
+
     public int lengthOfLongestSubstring(String s) {
-        //dynamic size sliding window using hashset
-        Set<Character> set=new HashSet<>();//to add unique elemnts
-        int maxCount=0;
-        int j=0;
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            if(!set.contains(c)){
-                set.add(c);
-               maxCount= Math.max(maxCount,set.size());
+        //use set along with sliding windo
+        Set<Character> unique=new HashSet<>();
+        int maxLength=0;
+        int start=0;
+        int end=0;
+        int n=s.length()-1;
+        while(end<=n){
+            char ch=s.charAt(end);
+            while(unique.contains(ch) && start<=end){//shrink window
+                    unique.remove(s.charAt(start));
+                    start++;
             }
-            else{
-                
-                while(set.contains(c)){
-                    set.remove(s.charAt(j));
-                    j++;
-                }
-                set.add(c);
-                
-            }
+            unique.add(ch);
+            maxLength=Math.max(maxLength,unique.size());
+            end++;
         }
-        return maxCount;
+        return maxLength;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//         //dynamic size sliding window using hashset
+//         Set<Character> set=new HashSet<>();//to add unique elemnts
+//         int maxCount=0;
+//         int j=0;
+//         for(int i=0;i<s.length();i++){
+//             char c=s.charAt(i);
+//             if(!set.contains(c)){
+//                 set.add(c);
+//                maxCount= Math.max(maxCount,set.size());
+//             }
+//             else{
+                
+//                 while(set.contains(c)){
+//                     set.remove(s.charAt(j));
+//                     j++;
+//                 }
+//                 set.add(c);
+                
+//             }
+//         }
+//         return maxCount;
+//     }
+// }
 
 
 

@@ -100,6 +100,7 @@ suma.yogaraja@gmail.com
 | [0143-reorder-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -161,6 +162,7 @@ suma.yogaraja@gmail.com
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -595,6 +597,7 @@ suma.yogaraja@gmail.com
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0455-assign-cookies) |
@@ -849,6 +852,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |

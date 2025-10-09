@@ -173,6 +173,7 @@ suma.yogaraja@gmail.com
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1666-make-the-string-great) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -273,6 +274,7 @@ suma.yogaraja@gmail.com
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1036-rotting-oranges) |
+| [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -659,6 +661,7 @@ suma.yogaraja@gmail.com
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |

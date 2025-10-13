@@ -1,6 +1,7 @@
 class Solution {
     public int connectSticks(int[] sticks) {
-        List<Integer> ans=new ArrayList<>();
+        // List<Integer> ans=new ArrayList<>();
+        int res=0;
         if(sticks.length<=1)
             return 0;
         PriorityQueue<Integer>pq=new PriorityQueue<Integer>();//min heap
@@ -9,12 +10,12 @@ class Solution {
         while(pq.size()>1){
             int stick1=pq.poll();
             int stick2=pq.poll();
-            pq.add(stick1+stick2);
-            ans.add(stick1+stick2);    
+           pq.add(stick1+stick2);
+           res+=stick1+stick2;  
         }
-        int res=0;
-        while(!ans.isEmpty())
-            res+=ans.remove(ans.size()-1);
+        // int res=0;
+        // while(!ans.isEmpty())
+        //     res+=ans.remove(ans.size()-1);
         return res;
     }
 }

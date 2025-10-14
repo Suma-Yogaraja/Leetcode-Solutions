@@ -100,6 +100,7 @@ suma.yogaraja@gmail.com
 | [0143-reorder-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
@@ -117,6 +118,7 @@ suma.yogaraja@gmail.com
 | [0143-reorder-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 ## Math
@@ -129,6 +131,7 @@ suma.yogaraja@gmail.com
 | [0172-factorial-trailing-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -159,6 +162,7 @@ suma.yogaraja@gmail.com
 | [0127-word-ladder](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0387-first-unique-character-in-a-string) |

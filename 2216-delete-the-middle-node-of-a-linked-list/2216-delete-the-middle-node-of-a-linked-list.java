@@ -13,8 +13,8 @@ class Solution {
         //i will use fast and slow pointer to get middle of linked list and prevnode to get prev node of slow
         if(head==null || head.next==null)
          return null;
-        ListNode node=new ListNode();
-        node.next=head;
+        // ListNode node=new ListNode();
+        // node.next=head;
         ListNode fast=head;
         ListNode slow=head;
         ListNode prevNode=null;
@@ -25,7 +25,7 @@ class Solution {
         }
 
        prevNode.next=slow.next;
-        return node.next;
+        return head;
     }
 }
 

@@ -183,6 +183,7 @@ suma.yogaraja@gmail.com
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1666-make-the-string-great](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1666-make-the-string-great) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -534,6 +535,7 @@ suma.yogaraja@gmail.com
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1192-divide-chocolate](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1192-divide-chocolate) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -552,6 +554,7 @@ suma.yogaraja@gmail.com
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
@@ -562,6 +565,7 @@ suma.yogaraja@gmail.com
 | [0560-subarray-sum-equals-k](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2102-find-the-middle-index-in-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting

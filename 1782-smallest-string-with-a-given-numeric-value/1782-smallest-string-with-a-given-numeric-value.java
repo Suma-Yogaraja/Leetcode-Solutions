@@ -5,7 +5,7 @@ class Solution {
         int i=0;
         Arrays.fill(ans, 'a');//fill with a 
         k=k-n;
-        System.out.println("value of k after initializing is " + k);
+        // System.out.println("value of k after initializing is " + k);
         int last=n-1;
         while(k>=0){
             if(k+1>26 && last>=0){

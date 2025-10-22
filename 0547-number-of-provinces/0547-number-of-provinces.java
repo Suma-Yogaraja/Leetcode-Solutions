@@ -1,41 +1,36 @@
 class Solution {
-    Map<Integer,List<Integer>> graph=new HashMap<>();
-    boolean[] seen;
+    int[] parent;
+    int count;
     public int findCircleNum(int[][] isConnected) {
-        //convert matrix to adj list to get a graph
-        int n=isConnected.length;
-        for(int i=0;i<n;i++){
-         if(!graph.containsKey(i))
-            graph.put(i,new ArrayList<>());
-         for(int j=i+1;j<n;j++){
-            if(!graph.containsKey(j))
-                graph.put(j,new ArrayList<>());
-            if(isConnected[i][j]==1){
-                graph.get(i).add(j);
-                graph.get(j).add(i);
+        //this can be solved using dfs or union set
+        parent=new int[isConnected.length];
+        count=isConnected.length;
+        for(int i=0;i<isConnected.length;i++)
+            parent[i]=i;
+        for(int i=0;i<isConnected.length;i++){
+            for(int j=i+1;j<isConnected.length;j++){
+                if(isConnected[i][j]==1){
+                    union(i,j);
+             
+                } 
             }
-         }
         }
-    //create a boolean array and make eveything as false 
-     seen= new boolean[n];
-     int ans=0;
-     for(int i=0;i<n;i++){
-        if(!seen[i]){//if false , we have not traveres that node before
-            ans++;
-            seen[i]=true;
-            dfs(i);
-        }
-     }
-        return ans;
+        System.out.println(count);
+            return count;
     }
-        void dfs(int i){
-            for(int neighbour:graph.get(i)){
-                if(!seen[neighbour]){
-                    seen[neighbour]=true;
-                    dfs(neighbour);
-                }
+    private void union(int i,int j){
+            int px=find(i);
+            int py=find(j);
+            if(px!=py){
+                parent[py]=px;
+                count--;
             }
-        }
-
-     
+            else
+            return;
+    }
+    private int find(int x){
+        if(parent[x]==x)
+            return x;
+        return find(parent[x]);
+    }
 }

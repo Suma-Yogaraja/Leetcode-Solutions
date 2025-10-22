@@ -15,7 +15,7 @@ class Solution {
                 } 
             }
         }
-        System.out.println(count);
+        // System.out.println(count);
             return count;
     }
     private void union(int i,int j){

@@ -14,19 +14,25 @@
  * }
  */
 class Solution {
+    int count;
+    int result;
     public int kthSmallest(TreeNode root, int k) {
-        List<TreeNode> sorted=new ArrayList<>();
+        count=0;
+        result=-1;
         //since this is a BST, we can do inorder so we will get sorted list,pick the ith value from it
-        bst(root,sorted);
-        return sorted.get(k-1).val;
+        bst(root,k);
+        return result;
         
     }
-    private void bst(TreeNode root,List<TreeNode> sorted){
+    private void bst(TreeNode root,int k){
         if(root==null)
             return;
-        bst(root.left,sorted);
-        sorted.add(root);
-        bst(root.right,sorted);
-        return;
+        bst(root.left,k);
+        count++;
+        if(count==k){
+            result=root.val;
+            return;
+        }
+        bst(root.right,k);
     }
 }

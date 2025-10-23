@@ -187,6 +187,7 @@ suma.yogaraja@gmail.com
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1666-make-the-string-great](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1666-make-the-string-great) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -308,6 +309,7 @@ suma.yogaraja@gmail.com
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1829-maximum-units-on-a-truck](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -606,6 +608,7 @@ suma.yogaraja@gmail.com
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1829-maximum-units-on-a-truck](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -688,6 +691,7 @@ suma.yogaraja@gmail.com
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2475-largest-palindromic-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2475-largest-palindromic-number) |

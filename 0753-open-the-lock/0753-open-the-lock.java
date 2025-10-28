@@ -1,51 +1,49 @@
 class Solution {
     public int openLock(String[] deadends, String target) {
-        //this is kinda bfs problem,
-        //ex: 0202 target,first move 3rd digit twice > 0200>move 1st digit once > 0201-deadend,backtrack
-        //move down 1st digit 0200>0209 >0208>0207...>0202
-        //start with 0000
-        Set<String> visited = new HashSet<>();
-        Queue<String> q = new LinkedList<>();
-        //add dead end to set 
-        Set<String> dead = new HashSet<>(Arrays.asList(deadends));
-        //edge case
-        if (dead.contains(target) || dead.contains("0000")) {
-            return -1;
-        }
-        int steps = 0;
+        //BFS finding shortest path
+        Queue<String> q=new LinkedList<>();
+        int step=0;
+        Set<String> deadend=new HashSet<>();
+        for(String dead:deadends)
+            deadend.add(dead);
         q.offer("0000");
+        if(deadend.contains("0000"))
+            return -1;
+        Set<String> visited=new HashSet<>();
         visited.add("0000");
-        while (!q.isEmpty()) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                String curr = q.poll();
-                if (curr.equals(target))
-                    return steps;
-                for (int j = 0; j < 4; j++) {//4 digits so using j<4
-                    //checking up direction
-                    String down = move(curr, j, -1);
-                    if (!dead.contains(down) && !visited.contains(down)) {
-                        q.offer(down);
-                        visited.add(down);
-                    }
-                    String up = move(curr, j, 1);
-                    if (!dead.contains(up) && !visited.contains(up)) {
-                        q.offer(up);
+        while(!q.isEmpty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                String curr=q.poll();
+                if(curr.equals(target))
+                    return step;
+                for(int j=0;j<4;j++){
+                    //direction up and down
+                    String up=move(curr,j,1);
+                    if(!deadend.contains(up) && !visited.contains(up)){
                         visited.add(up);
+                        q.offer(up);
                     }
-
+                    String down=move(curr,j,-1);
+                    if(!deadend.contains(down) && !visited.contains(down)){
+                        visited.add(down);
+                        q.offer(down);
+                    }
                 }
             }
-            steps++;
+                step++;
         }
         return -1;
     }
-
-    private String move(String s, int index, int direction) {
-        char[] chars = s.toCharArray();
-        int digit = chars[index] - '0';
-        digit = (digit + direction + 10) % 10;
-        chars[index] = (char) (digit + '0');
-        return new String(chars);
+    private String move(String s,int index,int dir){
+        char[] newString=s.toCharArray();
+        int digit=newString[index]- '0';
+        int newDigit=digit+dir;
+        if(newDigit>9)
+            newDigit=0;
+        else if(newDigit<0)
+            newDigit=9;
+        newString[index]= (char)('0'+newDigit);
+        return new String(newString);
     }
 }

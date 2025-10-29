@@ -10,36 +10,38 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        int max = 0;
-        ListNode firstHalf = head;
-        //first find middle of node using fast slow pointer
-        ListNode slow = head;
-        ListNode fast = head;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        if(head==null || head.next==null)
+            return 0;
+        ListNode fast=head;
+        ListNode slow=head;
+        ListNode prev=null;
+        while(fast!=null && fast.next!=null){
+            fast=fast.next.next;
+            prev=slow;
+            slow=slow.next;
+            
         }
-        //reverse the second half of node
-        ListNode secondHalf = reverse(slow);
-        //Now find the sum 
-        while (secondHalf != null) {
-            int sum = firstHalf.val + secondHalf.val;
-            max = Math.max(max, sum);
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
-        }
-        return max;
-    }
+        int maxSum=0;
+        System.out.println(prev.val);
+        prev.next=null;
+        ListNode secondhalf=reverse(slow);
+        while(head!=null){
+            maxSum=Math.max(maxSum,head.val+secondhalf.val);
+            head=head.next;
+            secondhalf=secondhalf.next;
 
-    ListNode reverse(ListNode curr) {
-        ListNode prev = null;
-        while (curr != null) {
-            ListNode nextNode = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextNode;
         }
-        return prev;
+        return maxSum;
     }
-
+    private ListNode reverse(ListNode head) {
+    ListNode prev = null;
+    ListNode curr = head;
+    while (curr != null) {
+        ListNode nextNode = curr.next; 
+        curr.next = prev;              
+        prev = curr;                   
+        curr = nextNode;               
+    }
+    return prev;
+}
 }

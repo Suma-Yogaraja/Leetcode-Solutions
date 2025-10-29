@@ -1,21 +1,18 @@
 class Solution {
     public int findMin(int[] nums) {
-        //just like finding pivot elemnts
-        int n=nums.length;
-        int left=0;
-        int right=n-1;
-        if(n==0)
-            return -1;
-        while(left<right){
-            int mid=left+(right-left)/2;
-            //left is sorted
-            if(nums[mid]>nums[right]){
-                left=mid+1;
+        //like finding pivot elemnt
+        //do a binary search
+        int start = 0;
+        int end = nums.length - 1;
+        while (start < end) {
+            int mid = start + (end - start) / 2;
+            if (nums[mid] > nums[end]) {
+                //left is sorted check right
+                start = mid+1;
             }
             else
-                right=mid;
+                end=mid;
         }
-    // System.out.println("pivot ele is "+left);
-        return nums[left];
+        return nums[start];
     }
 }

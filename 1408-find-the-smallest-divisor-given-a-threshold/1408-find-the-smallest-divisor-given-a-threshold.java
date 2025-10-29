@@ -1,10 +1,10 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
+        int start=1;
+        int end=0;
         //i think this belongs to binary search
-        Arrays.sort(nums);//log n
-        //ans range is in between 1 to highest number in the nums
-        int start = 1;
-        int end = nums[nums.length - 1];
+        for(int num:nums)
+            end=Math.max(end,num);    
         // System.out.println(end);
         int sum = 0;
         int maxSum = Integer.MIN_VALUE;

@@ -15,70 +15,23 @@
  */
 class Solution {
     int maxDiff;
+    
     public int maxAncestorDiff(TreeNode root) {
         maxDiff=Integer.MIN_VALUE;
         if(root==null)
             return 0;
+        //at each node calculate min and max
         dfs(root,root.val,root.val);
-       return maxDiff;
+        return maxDiff;
     }
-    //at each node i will send max and min
     private void dfs(TreeNode node,int min,int max){
-        if(node==null)
-            return ;//for null node
-        max=Math.max(max,node.val);
+        if(node ==null)
+            return;
         min=Math.min(min,node.val);
-       int currDiff=max-min;
-        maxDiff=Math.max(maxDiff,currDiff);
+        max=Math.max(node.val,max);
+        maxDiff=Math.max(maxDiff,max-min);
         dfs(node.left,min,max);
         dfs(node.right,min,max);
-        
+        return;
     }
 }
-
-
-
-
-
-
-
-
-
-//         maxDiff=0;
-//         if(root==null)
-//             return 0;
-//         dfs(root);
-//         return maxDiff;
-//     }
-//     int[] dfs(TreeNode node){
-//         if(node==null)
-//             return new int[]{-1,-1};
-//         int min=Integer.MAX_VALUE;
-//         int max=Integer.MIN_VALUE;
-//         if(node.left==null && node.right==null){
-//             return new int[] {node.val,node.val};
-//         }
-//         int[] left=dfs(node.left);
-//         int[] right=dfs(node.right);
-//         for(int i=0;i<2;i++){
-//             if(left[i]!=-1){
-//                 maxDiff=Math.max(maxDiff,Math.abs(node.val-left[i]));
-//                 min=Math.min(min,left[i]);
-//                 max=Math.max(max,left[i]);
-//             }
-//         }
-//          for(int i=0;i<2;i++){
-//             if(right[i]!=-1){
-//                 maxDiff=Math.max(maxDiff,Math.abs(node.val-right[i]));
-//                 min=Math.min(min,right[i]);
-//                 max=Math.max(max,right[i]);
-//             }
-//         }
-//         min=Math.min(min,node.val);
-//         max=Math.max(max,node.val);
-
-//         return new int[] {min,max};
-
-//     }
-
-// }

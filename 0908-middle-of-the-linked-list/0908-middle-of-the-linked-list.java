@@ -10,20 +10,13 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        //declare fast and slow pointer to head of node
-        ListNode slow=head;
+        //use fast and slow pointer
         ListNode fast=head;
-
-        //move fast pointer twice the speed of slow untill fast becomes null
+        ListNode slow=head;
         while(fast!=null && fast.next!=null){
-            slow=slow.next;
             fast=fast.next.next;
-
+            slow=slow.next;
         }
-        
-        //return slow
         return slow;
-
-        
     }
 }

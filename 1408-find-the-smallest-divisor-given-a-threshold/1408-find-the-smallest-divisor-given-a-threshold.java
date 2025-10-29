@@ -6,11 +6,10 @@ class Solution {
         for(int num:nums)
             end=Math.max(end,num);    
         // System.out.println(end);
-        int sum = 0;
         int maxSum = Integer.MIN_VALUE;
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            sum = divisor(mid, threshold, nums);
+            int sum = divisor(mid, threshold, nums);
             // System.out.println("sum is " + sum +" mid is " + mid);
             if (sum > threshold) {
                 start = mid+1;

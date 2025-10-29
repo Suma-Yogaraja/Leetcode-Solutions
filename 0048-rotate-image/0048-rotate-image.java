@@ -1,22 +1,24 @@
 class Solution {
     public void rotate(int[][] matrix) {
-        List<List<Integer>> list=new ArrayList<>();
-        for(int j=0;j<matrix[0].length;j++)
-            list.add(new ArrayList<>());
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                list.get(j).add(matrix[i][j]);
-                // System.out.println(j+ " " +matrix[i][j]);
+        /*90 = transpose + reverse row
+        180 = reverse row + reverse column
+        270 = transpose + reverse col*/
+        int n = matrix.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                //swap
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
             }
         }
-        for(int i=0;i<list.size();i++){
-            Collections.reverse(list.get(i));
-        }
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                matrix[i][j]=list.get(i).get(j);
+        //reverse row
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n / 2; j++) {
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[i][n - 1 - j];
+                matrix[i][n - 1 - j] = temp;
             }
         }
-        
     }
 }

@@ -1,26 +1,32 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        //find min dividor ,such that sum<=threshold boundry(1,max number)
-        //find the boundry of divisor
-        int left=1;
-        int right=0;
-        for(int num:nums)
-            right=Math.max(right,num);
-        while(left<=right){
-            int mid=left+(right-left)/2;
-            if(check(mid,nums)<=threshold)
-                right=mid-1;
-            else
-                left=mid+1;
+        //i think this belongs to binary search
+        Arrays.sort(nums);//log n
+        //ans range is in between 1 to highest number in the nums
+        int start = 1;
+        int end = nums[nums.length - 1];
+        // System.out.println(end);
+        int sum = 0;
+        int maxSum = Integer.MIN_VALUE;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            sum = divisor(mid, threshold, nums);
+            // System.out.println("sum is " + sum +" mid is " + mid);
+            if (sum > threshold) {
+                start = mid+1;
+            }
+            else {
+                end = mid-1;
+            }
         }
-        return left;
+        return start;
     }
-    private int check(int divisor,int[] nums){
 
-        int sum=0;
-        for(int num:nums){
-            sum+=(num+divisor-1)/divisor;
-            //sum+=(int)Math.ceil((double)num/divisor);
+    private int divisor(int div, int threshold, int[] nums) {
+        int sum = 0;
+        for (int num : nums) {
+            // System.out.println(sum);
+            sum += Math.ceil((double) num / div);
         }
         return sum;
     }

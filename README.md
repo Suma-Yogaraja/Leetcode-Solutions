@@ -364,6 +364,7 @@ suma.yogaraja@gmail.com
 | [0572-subtree-of-another-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -414,6 +415,7 @@ suma.yogaraja@gmail.com
 | [0695-max-area-of-island](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0744-network-delay-time) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -461,6 +463,7 @@ suma.yogaraja@gmail.com
 | [0733-flood-fill](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1036-rotting-oranges) |

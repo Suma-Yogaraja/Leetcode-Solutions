@@ -1,37 +1,42 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-
-        Stack<Integer> num = new Stack<>();
-        for (String x : tokens) {
-            int a;
-            int b;
-            switch (x) {
+        Stack<Integer> stack=new Stack<>();
+        if(tokens.length<=0)
+            return 0;
+        int sum=0;
+        for(int i=0;i<tokens.length;i++){
+            String n=tokens[i];
+            // System.out.println(n);
+            switch(n){
                 case "+":
-                     a = Integer.valueOf(num.pop());
-                     b = Integer.valueOf(num.pop());
-                    num.push(a + b);
-                    break;
+                            int num1=stack.pop();
+                            int num2=stack.pop();
+                            System.out.println(num1+ " " + num2);    
+                            stack.push(num1+num2);
+                        break;
                 case "-":
-                     a = Integer.valueOf(num.pop());
-                     b = Integer.valueOf(num.pop());
-                    num.push(b- a);
-                    break;
-                case "/":
-                     a = Integer.valueOf(num.pop());
-                     b = Integer.valueOf(num.pop());
-                    num.push(b / a);
-                    break;
-                case "*":
-                     a = Integer.valueOf(num.pop());
-                     b = Integer.valueOf(num.pop());
-                    num.push(a * b);
-                    break;
+                        num1=stack.pop();
+                        num2=stack.pop();
+                        stack.push(num2-num1);
+                        break;
+                 case "/":
+                       num1=stack.pop();
+                       num2=stack.pop();
+                       System.out.println(num1+ " " + num2);
+                          stack.push(num2/num1);
+                        break;
+                 case "*":
+                         num1=stack.pop();
+                         num2=stack.pop();
+                          stack.push(num1*num2);
+                        break;
                 default:
-                    num.push(Integer.valueOf(x));
+                        int num=Integer.parseInt(n);
+                        System.out.println(num);
+                        stack.push(num);
+                        break;
             }
-
         }
-
-        return num.pop();
+        return stack.isEmpty()?0:stack.pop();
     }
 }

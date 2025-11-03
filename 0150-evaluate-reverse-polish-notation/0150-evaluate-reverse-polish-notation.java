@@ -11,7 +11,7 @@ class Solution {
                 case "+":
                             int num1=stack.pop();
                             int num2=stack.pop();
-                            System.out.println(num1+ " " + num2);    
+                            // System.out.println(num1+ " " + num2);    
                             stack.push(num1+num2);
                         break;
                 case "-":
@@ -22,7 +22,7 @@ class Solution {
                  case "/":
                        num1=stack.pop();
                        num2=stack.pop();
-                       System.out.println(num1+ " " + num2);
+                    //    System.out.println(num1+ " " + num2);
                           stack.push(num2/num1);
                         break;
                  case "*":
@@ -32,7 +32,7 @@ class Solution {
                         break;
                 default:
                         int num=Integer.parseInt(n);
-                        System.out.println(num);
+                        // System.out.println(num);
                         stack.push(num);
                         break;
             }

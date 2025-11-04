@@ -9,27 +9,25 @@
  * }
  */
 class Solution {
-    public ListNode partition(ListNode head, int x) {    
-        ListNode p1=new ListNode();
-        ListNode p2=new ListNode();
-        ListNode p=p1;
-        ListNode q=p2;
-        while(head!=null ){
+    public ListNode partition(ListNode head, int x) {
+        ListNode list1=new ListNode(0);
+        ListNode head1=list1;
+        ListNode list2=new ListNode(0);
+        ListNode head2=list2;
+        while(head!=null){
             if(head.val<x){
-                p1.next=head; 
-                p1=p1.next;
-                // System.out.println(head.val);
+                list1.next=head;
+                list1=list1.next;
             }
             else{
-                 p2.next=head;
-                 p2=p2.next;
+                list2.next=head;
+                list2=list2.next;
+                // System.out.println(head.val);
             }
-            ListNode temp=head.next;
-             head.next=null;
-             head=temp;
+            head=head.next;
         }
-        //  System.out.println(p.next.val);
-         p1.next=q.next;
-        return p.next;
+        list2.next=null;
+         list1.next=head2.next;
+         return head1.next;
     }
 }

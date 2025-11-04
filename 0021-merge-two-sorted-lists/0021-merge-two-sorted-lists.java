@@ -10,51 +10,31 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        //edge cases
         if(list1==null && list2==null)
             return null;
-        if(list1==null)
-            return list2;
-        if(list2==null )
-            return list1;  
-       
-        ListNode l1=list1;
-        ListNode l2=list2;
-        ListNode merged=new ListNode(-1);
-        ListNode dummy=merged;
-        if(l1.val<=l2.val){
-            dummy.next=l1;
-            l1=l1.next;
-             dummy=dummy.next;
-        }
-        else{
-            dummy.next=l2;
-            l2=l2.next;
-             dummy=dummy.next;
-        }
-          
-        
-        //System.out.println(dummy.val);
-        while(l1!=null && l2!=null){
-            //System.out.println(l1.val + ":" + l2.val);
-            if(l1.val<=l2.val){
-                dummy.next=l1;
-                l1=l1.next;
-                
-                //System.out.println(dummy.val);
-            }
-            else{
-                dummy.next=l2;
-                l2=l2.next;
-            }
-            dummy=dummy.next;
-        }
-           if(l2!=null){
-            dummy.next=l2;
+        ListNode dummy=new ListNode(0);
+        ListNode curr=dummy;
+        while(list1!=null && list2!=null){
+           if(list1.val<list2.val){
+                curr.next=list1;
+                list1=list1.next;
+           } 
+           else{
+             curr.next=list2;
+             list2=list2.next;
            }
-            else if(l1!=null)
-                dummy.next=l1;
-        
-       return merged.next;
+            curr=curr.next;
+        }
+        while(list1!=null){
+            curr.next=list1;
+            curr=curr.next;
+            list1=list1.next;
+        }
+        while(list2!=null){
+            curr.next=list2;
+            curr=curr.next;
+            list2=list2.next;
+        }
+        return dummy.next;
     }
 }

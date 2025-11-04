@@ -36,6 +36,7 @@ suma.yogaraja@gmail.com
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -680,6 +681,7 @@ suma.yogaraja@gmail.com
 | [0076-minimum-window-substring](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0202-happy-number) |

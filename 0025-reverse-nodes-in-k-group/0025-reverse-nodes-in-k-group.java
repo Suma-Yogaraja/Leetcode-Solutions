@@ -18,9 +18,9 @@ class Solution {
         ListNode currNode = dummy.next;
         ListNode prevGroupTail = dummy;
         while (currNode != null) {
-            ListNode nextStart = new ListNode(0);
             ListNode endNode = kNode(k, currNode);
             if (endNode != null) {
+                ListNode nextStart = endNode.next;
                 nextStart = endNode.next;
                 ListNode newHead = reverse(currNode, endNode);
                 prevGroupTail.next = newHead;

@@ -14,26 +14,16 @@
  * }
  */
 class Solution {
+    TreeNode result;
     public TreeNode invertTree(TreeNode root) {
-        /* first check if a node is leaf node,
-         if yes ,take right leaf node,then change the value
-         */
-
-        if(root==null)
-            return null;
-        
-        //exchange the nodes
-        TreeNode left=root.left;
-        root.left=root.right;
+        if(root==null || (root.left==null && root.right==null)) 
+            return root;
+        TreeNode left=invertTree(root.left);
+        TreeNode right=invertTree(root.right);
+        // System.out.println(left.val);
+        root.left=right;
         root.right=left;
-
-        //call the left and right
-        invertTree(root.left);
-        invertTree(root.right);
-
-       return root; 
-        
+        return root;
     }
-
-
+  
 }

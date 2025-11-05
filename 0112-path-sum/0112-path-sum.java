@@ -16,26 +16,21 @@
 class Solution {
     int target;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        // we use DFS to find the leaf node,
+        //till i traverese leaf,i will be adding the ans
         target=targetSum;
-        return dfs(root,0);
-        
+        if(root==null)
+            return false;
+        return dfs(root,0);  
     }
-    boolean dfs(TreeNode node,int curr){
-        //if root node has no child
+    private boolean dfs(TreeNode node,int ans){
         if(node==null)
-         return false;
-
-         //if we found leaf node and target is equal to given targetSum
-        if(node.left==null && node.right==null){
-            return (curr+node.val==target);
-        }
-         //logic for moving onto next nodes using DFS postorder
-        curr+=node.val;
-        boolean left=dfs(node.left,curr);
-        boolean right=dfs(node.right,curr);
-        return left||right;
-
+            return false;
+        if(node.left==null && node.right==null)
+            return (ans+node.val)==target;
+        // System.out.println(ans);
+        ans+=node.val;
+        boolean left=dfs(node.left,ans);
+        boolean right=dfs(node.right,ans);
+        return left || right;
     }
-
 }

@@ -41,6 +41,7 @@ suma.yogaraja@gmail.com
 | [0138-copy-list-with-random-pointer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -687,6 +688,7 @@ suma.yogaraja@gmail.com
 | [0128-longest-consecutive-sequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -892,6 +894,7 @@ suma.yogaraja@gmail.com
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -939,4 +942,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

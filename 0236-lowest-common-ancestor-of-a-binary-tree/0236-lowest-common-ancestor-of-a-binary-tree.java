@@ -15,10 +15,10 @@ class Solution {
         return res;
     }
     private TreeNode dfs(TreeNode node,TreeNode p,TreeNode q){
-        if(node.left==null && node.right==null)
-            return null;
         if(node==p || node==q)
             return node; 
+        if(node==null)
+            return null;
        TreeNode left=dfs(node.left,p,q);
        TreeNode right=dfs(node.right,p,q);
         if(left!=null && right!=null)

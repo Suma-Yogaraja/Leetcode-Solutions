@@ -11,25 +11,22 @@ class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root==null)
             return root;
-        boolean pFound=false;
-        boolean qFound=false;
-        return dfs(root,p,q);
+        TreeNode res=dfs(root,p,q);
+        return res;
     }
     private TreeNode dfs(TreeNode node,TreeNode p,TreeNode q){
-        if(node==null)
+        if(node.left==null && node.right==null)
             return null;
-            if(node==p || node==q){
-            return node;
-        }
-        TreeNode left=dfs(node.left,p,q);
-        TreeNode right=dfs(node.right,p,q);
+        if(node==p || node==q)
+            return node; 
+       TreeNode left=dfs(node.left,p,q);
+       TreeNode right=dfs(node.right,p,q);
         if(left!=null && right!=null)
             return node;
-        
-        if(left==null)
-            return right;
-        else
+        else if(left!=null)
             return left;
-         
+        else if(right!=null)
+            return right;
+        else return null;
     }
 }

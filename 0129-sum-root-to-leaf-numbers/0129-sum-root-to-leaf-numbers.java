@@ -14,49 +14,21 @@
  * }
  */
 class Solution {
-
     public int sumNumbers(TreeNode root) {
-        if(root==null)
-            return 0;
-        return dfs(root,0);
+        //root to leaf traverse
+        int sum=0;
+        List<Integer> res=new ArrayList<>();
+        return dfs(root,0); 
     }
-    private int dfs(TreeNode node,int sum){
+    private int dfs(TreeNode node,int currNumber){
         if(node==null)
             return 0;
-        sum=sum*10+node.val;
-        if(node.left==null && node.right==null){//leaf node
-            return sum;
+        currNumber=currNumber*10+node.val;
+        System.out.println(currNumber);
+        if(node.left==null && node.right==null){
+                return currNumber;
         }
-        return dfs(node.left,sum)+dfs(node.right,sum);
-    }
+        else
+            return dfs(node.left,currNumber)+ dfs(node.right,currNumber);
+    } 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//       if(root==null)
-//         return 0;
-//        return dfs(root,0);  
-//     }
-//     int dfs(TreeNode node,int sum){
-//         if(node==null)
-//             return 0;
-//         sum=sum*10 +node.val;
-//         if(node.left==null && node.right==null){
-//             return sum;
-//         }
-//         return dfs(node.left,sum)+dfs(node.right,sum);
-
-
-//     }
-// }

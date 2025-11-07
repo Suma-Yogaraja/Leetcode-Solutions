@@ -24,7 +24,7 @@ class Solution {
         if(node==null)
             return 0;
         currNumber=currNumber*10+node.val;
-        System.out.println(currNumber);
+        // System.out.println(currNumber);
         if(node.left==null && node.right==null){
                 return currNumber;
         }

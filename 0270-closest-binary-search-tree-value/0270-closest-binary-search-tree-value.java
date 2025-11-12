@@ -14,70 +14,34 @@
  * }
  */
 class Solution {
-    double targetSum;
+    double targetNum;
     int closest;
-    double minDiff;
-
     public int closestValue(TreeNode root, double target) {
-        //since its BST,we can make use of that propert to optimise the search
-        if (root == null)
-            return 0;
-        targetSum = target;
-        closest = root.val;
-        minDiff = Math.abs(target - root.val);
-        dfs(root);
-        return closest;
+        targetNum=target;
+        closest=root.val;
+        if(root==null || (root.left==null && root.right==null))
+            return root.val;
+        double diff=Math.abs(root.val-target);
+        System.out.println(diff);
+         dfs(root,diff); 
+         return closest;   
     }
-
-    void dfs(TreeNode node){
+    private void dfs(TreeNode node,double diff){
         if(node==null)
             return;
-        double currDiff=Math.abs(node.val-targetSum);
-        if(currDiff<minDiff){
-            minDiff=currDiff;
-            closest=node.val;
-        }
-        if(currDiff==minDiff && closest>node.val)
-            closest=node.val;
-
-        if(targetSum>node.val)
-            dfs(node.right);
         
-        else
-            dfs(node.left);
+       if(Math.abs(node.val-targetNum)<diff){
+            closest=node.val;
+            diff=Math.abs(node.val-targetNum);
+       }
+       else if(Math.abs(node.val-targetNum)==diff){
+         if(closest>node.val)
+            closest=node.val;
+       }
+       dfs(node.left,diff);
+        dfs(node.right,diff);
+       return;
 
     }
+
 }
-
-//     if (root == null)
-//         return 0;
-//     targetSum = target;
-//     closest = root.val;
-//     minDiff = Math.abs(target - root.val);
-//     //System.out.println(minDiff);
-//     dfs(root);
-//     return closest;
-
-// }
-
-// void dfs(TreeNode node){
-//     if(node==null)
-//      return;
-//     //take node  value and check aganist minDiff value 
-//   double currDiff=Math.abs(targetSum-node.val);
-//   //System.out.println(currDiff);
-//   if(currDiff<minDiff){
-//    minDiff=currDiff;
-//    closest=node.val;   
-//    //System.out.println(closest);
-//   }
-//   if(currDiff==minDiff)
-//     {
-//         if(closest>node.val)
-//           closest=node.val;
-//     }
-//     //do recursive
-//     dfs(node.left);
-//     dfs(node.right);
-
-// }

@@ -22,7 +22,7 @@ class Solution {
         if(root==null || (root.left==null && root.right==null))
             return root.val;
         double diff=Math.abs(root.val-target);
-        System.out.println(diff);
+        // System.out.println(diff);
          dfs(root,diff); 
          return closest;   
     }

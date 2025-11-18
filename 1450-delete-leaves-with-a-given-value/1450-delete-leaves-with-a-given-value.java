@@ -14,19 +14,24 @@
  * }
  */
 class Solution {
+    int targetValue;
     public TreeNode removeLeafNodes(TreeNode root, int target) {
+        targetValue=target;
         if(root==null)
-            return root;
-       return dfs(root,target);
-    }   
-    private TreeNode dfs(TreeNode node,int target){
+            return null;
+        return  dfs(root);
+        
+    }
+    private TreeNode dfs(TreeNode node){
         if(node==null)
             return null;
-        node.left=dfs(node.left,target);
-        node.right=dfs(node.right,target);
+        node.left=dfs(node.left);
+        node.right=dfs(node.right);
         if(node.left==null && node.right==null){//leaf node
-            if(node.val==target)
-                return null;
+            if(node.val==targetValue){
+                //candidate to remove
+               return null;
+            }
         }
         return node;
     }

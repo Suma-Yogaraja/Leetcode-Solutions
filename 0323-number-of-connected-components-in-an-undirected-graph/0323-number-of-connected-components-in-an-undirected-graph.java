@@ -21,6 +21,8 @@ class Solution {
         return count;
     }
     private void dfs(int node,Map<Integer,List<Integer>> dict,boolean[] visited){
+        if(visited[node]==true)
+            return;
         visited[node]=true;
         for(int neighbour:dict.get(node)){
             if(!visited[neighbour]){

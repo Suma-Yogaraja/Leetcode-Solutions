@@ -1,20 +1,17 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        if(nums.length==0)
-            return 0;
-        if(nums.length==1)
-            return nums[0];
-        //kadanes approach
+        
+        int end=nums.length-1;
         int maxSum=Integer.MIN_VALUE;
-        int currSum=0;
-        for(int num:nums){
-            currSum+=num;
-            if(currSum>maxSum)
-                maxSum=currSum;
-            if(currSum<0)
-                currSum=0;//start from fresh
-        }
-        return maxSum;
-
+        int currWindSum=0;
+       for(end=0;end<nums.length;end++){
+        currWindSum+=nums[end];
+        if(currWindSum>maxSum)
+            maxSum=currWindSum;
+        if(currWindSum<=0)
+            currWindSum=0;
+    
+       }
+       return maxSum==Integer.MIN_VALUE?0:maxSum;
     }
 }

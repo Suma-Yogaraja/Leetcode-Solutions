@@ -1,77 +1,20 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-
-        //useing hash map,key as num,value as index
-        Map<Integer,Integer> map=new HashMap<>();
+        //hasmap elemnt ,
+        Map<Integer,Integer> dict=new HashMap<>();
+        int[] ans=new int[2];
         for(int i=0;i<nums.length;i++){
-            if(map.containsKey(target-nums[i])){
-                return new int[]{i,map.get(target-nums[i])};
+            int diff=target-nums[i];
+            if(dict.containsKey(diff)){
+                //add key index and present index
+                ans[0]=dict.get(diff);
+                ans[1]=i;
+                break;
             }
-           else map.put(nums[i],i);
+            else{
+                dict.put(nums[i],i);
+            }
         }
-        return new int[]{-1,-1};
-    }  
+        return ans;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//         //use hashmap key as number and value as its index
-//         Map<Integer,Integer> map=new HashMap<>();
-//         for(int i=0;i<nums.length;i++){
-//             if(map.containsKey(target-nums[i]))
-//                 return new int[]{i,map.get(target-nums[i])};
-//             else
-//                 map.put(nums[i],i);
-//         }
-//             return new int[]{-1,-1};
-//     }
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//         //take a hashmpa,key as number and value as index
-//         Map<Integer,Integer> map=new HashMap<>();
-//         for(int i=0;i<nums.length;i++){
-//             if(map.containsKey(target-nums[i])){
-//                 return new int[]{i,map.get(target-nums[i])};
-//             }
-//             else{
-//                 map.put(nums[i],i);
-//             }
-
-//         }
-//         return new int[]{-1,-1};
-//     }
-// }

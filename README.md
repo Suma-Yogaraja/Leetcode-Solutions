@@ -324,6 +324,7 @@ suma.yogaraja@gmail.com
 | [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1192-divide-chocolate](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1192-divide-chocolate) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
@@ -648,6 +649,7 @@ suma.yogaraja@gmail.com
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -737,6 +739,7 @@ suma.yogaraja@gmail.com
 | [0771-jewels-and-stones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -945,6 +948,7 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Randomized
 |  |

@@ -196,6 +196,7 @@ suma.yogaraja@gmail.com
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
+| [0771-jewels-and-stones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -733,6 +734,7 @@ suma.yogaraja@gmail.com
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
+| [0771-jewels-and-stones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |

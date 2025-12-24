@@ -10,7 +10,7 @@ class Solution {
                 // System.out.println(" end is "+ s.charAt(i));
                 if(s.charAt(i)==c){
                     end=i;
-                    System.out.println("checking window till " + end);
+                    // System.out.println("checking window till " + end);
                     break;
                 }
             }

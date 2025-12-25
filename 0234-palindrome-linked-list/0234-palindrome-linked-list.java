@@ -19,7 +19,6 @@ class Solution {
             fast=fast.next.next;
             slow=slow.next;
         }
-        System.out.println(prev.val);
         prev.next=null;
         ListNode dummy=new ListNode();
         ListNode curr=slow;

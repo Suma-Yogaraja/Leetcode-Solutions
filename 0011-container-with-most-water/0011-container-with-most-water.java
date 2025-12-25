@@ -1,27 +1,19 @@
 class Solution {
     public int maxArea(int[] height) {
-   
-
-        //the problem is similar to finding the rectangle that has highest area
-        //for highesh area,length and breath should be max
-        //here length is value of array,width is index of array
-        int length=0;
-        //int width=0;
-        int last=height.length-1;
-        int first=0;
+        //find rectangle area,find heighest from left and right
+        //use two pointer
+        int left=0;
+        int area=0;
         int maxArea=Integer.MIN_VALUE;
-        while(first<=last){
-
-            length=Math.min(height[first],height[last]);
-            //width=last-first;
-            maxArea=Math.max(maxArea,length*(last-first));
-            if(first<=last && height[last]<=height[first])
-                last--;
-            else 
-                first++;
-
+        int right=height.length-1;
+        while(left<=right){
+            area=(right-left)* Math.min(height[left],height[right]); //length*breadth 
+            maxArea=Math.max(area,maxArea);
+            if(height[left]<height[right])
+                left++;
+            else
+                right--;
         }
-
         return maxArea;
     }
 }

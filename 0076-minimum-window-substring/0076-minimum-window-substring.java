@@ -1,48 +1,45 @@
 class Solution {
-
     public String minWindow(String s, String t) {
-        int minLeng = Integer.MAX_VALUE;
-        int minStart = 0;
-        int minEnd = 0;
-
         if (t.length() > s.length())
             return "";
-        Map<Character, Integer> tFreq = new HashMap<>();
-        for (char c : t.toCharArray())
-            tFreq.put(c, tFreq.getOrDefault(c, 0) + 1);
+        //min window substring
+        Map<Character, Integer> dict = new HashMap<>();
         int start = 0;
         int end = 0;
-        int need = tFreq.size();
-        int have=0;
+        int minStart = 0;
+        int minEnd = 0;
+        int minLen = Integer.MAX_VALUE;
+        for (char c : t.toCharArray())
+            dict.put(c, dict.getOrDefault(c, 0) + 1);
         Map<Character, Integer> temp = new HashMap<>();
+        int need = dict.size();
+        int have = 0;
         while (end < s.length()) {
             char key = s.charAt(end);
-            if (tFreq.containsKey(key)) {
-                temp.put(key, temp.getOrDefault(s.charAt(end), 0) + 1);
-                if (temp.get(key).intValue() == tFreq.get(key).intValue()) {
+            if (dict.containsKey(key)) {
+                temp.put(key, temp.getOrDefault(key, 0) + 1);
+                if (dict.get(key).intValue()== temp.get(key).intValue()) {
                     have++;
+                    System.out.println("i have this character" + key);
                 }
             }
-
-                while (have == need) {
-                    if (minLeng > (end - start + 1)) {
-                        minLeng = end - start + 1;
-                        minStart = start;
-                        minEnd = end;
-                    }
-                    char startChar = s.charAt(start);
-                    if (tFreq.containsKey(startChar)) {
-                        temp.put(startChar,temp.get(startChar) - 1);
-                        // System.out.println(start);
-                        if (temp.get(startChar) < tFreq.get(startChar)) {
-                            have--;
-                        }
-                    }
-                    start++;
-                    // System.out.println(start);
+            while (have == need) {
+                int len = end - start + 1;
+                if (len < minLen) {
+                    minStart = start;
+                    minLen = len;
                 }
+                //shrink the window
+                if (dict.containsKey(s.charAt(start))) {
+                    temp.put(s.charAt(start), temp.getOrDefault(s.charAt(start), 0) - 1);
+                    if (dict.get(s.charAt(start)) > temp.get(s.charAt(start))) {
+                        have--;
+                    }
+                }
+                start++;
+            }
             end++;
         }
-        return minLeng==Integer.MAX_VALUE?"":s.substring(minStart, minStart+minLeng);
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minLen);
     }
 }

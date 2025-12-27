@@ -20,7 +20,7 @@ class Solution {
                 temp.put(key, temp.getOrDefault(key, 0) + 1);
                 if (dict.get(key).intValue()== temp.get(key).intValue()) {
                     have++;
-                    System.out.println("i have this character" + key);
+                    // System.out.println("i have this character" + key);
                 }
             }
             while (have == need) {

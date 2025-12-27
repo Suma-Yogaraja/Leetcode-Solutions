@@ -313,6 +313,7 @@ suma.yogaraja@gmail.com
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -611,6 +612,7 @@ suma.yogaraja@gmail.com
 | [0209-minimum-size-subarray-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suma-Yogaraja/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -754,6 +756,7 @@ suma.yogaraja@gmail.com
 | [0763-partition-labels](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |

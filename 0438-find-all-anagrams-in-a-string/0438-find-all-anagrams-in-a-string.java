@@ -18,7 +18,7 @@ class Solution {
         if(dict.equals(temp))
             ans.add(0);
         while(end<s.length()){
-            System.out.println("inside while loop :" + s.charAt(end));
+            // System.out.println("inside while loop :" + s.charAt(end));
             temp.put(s.charAt(end),temp.getOrDefault(s.charAt(end),0)+1);
             int value=temp.get(s.charAt(start))-1;
             if(value==0)

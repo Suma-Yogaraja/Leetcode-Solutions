@@ -1,40 +1,29 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        //int[] result=new int[2];
-        int firstIndex=binarySearch(nums,target,true);
-        int lastindex=binarySearch(nums,target,false);
-        return new int[] {firstIndex,lastindex};
-        
-        
+       //finding elemnt is easy but finding first and last os bit confusin
+       int firstIndex=binarySearch(nums,target,true);
+       int lastIndex= binarySearch(nums,target,false);
+       return new int[]{firstIndex,lastIndex};
     }
-
-    int binarySearch(int[] nums, int target, boolean isFirst) {
-        int start = 0;
+    private int binarySearch(int[] nums,int target,boolean isFirst){
+        int l=0;
         int pos=-1;
-        int end = nums.length - 1;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-
-            if (nums[mid] == target) {
-                pos= mid;
+        int r=nums.length-1;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(nums[mid]==target){
+                //found elemnt 
                 if(isFirst)
-                    end=mid-1;
+                    r=mid-1;
                 else
-                    start=mid+1;
-
+                    l=mid+1;
+                 pos=mid;     
             }
-            else if (nums[mid] < target) {
-                // Search the right half
-                start=mid+1;
-                
-            } else {
-                // Search the left half
-                end=mid-1;
-            
-            }
+            else if(nums[mid]>target)
+                r=mid-1;
+            else
+                l=mid+1;
         }
         return pos;
-
     }
-
 }

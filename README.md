@@ -586,6 +586,7 @@ suma.yogaraja@gmail.com
 | [0222-count-complete-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0278-first-bad-version](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -986,6 +987,7 @@ suma.yogaraja@gmail.com
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0278-first-bad-version) |
 | [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 ## Shortest Path
 |  |

@@ -347,6 +347,7 @@ suma.yogaraja@gmail.com
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -611,6 +612,7 @@ suma.yogaraja@gmail.com
 | [1321-get-equal-substrings-within-budget](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |

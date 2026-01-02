@@ -1,35 +1,38 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        //answer is basically min(subarray sum)
-        int left=0,right=0;
+          //split in k ways to get min(largest sum)
+        //worst case is sum =sum of all elemnts
+        //best case largest sum=max of 
+        int left=0;
+        int right=0;
+        int ans=right;
         for(int num:nums){
             left=Math.max(left,num);
             right+=num;
         }
-        int answer=right;
         while(left<=right){
             int mid=left+(right-left)/2;
-            if(isValidSplit(nums,k,mid)){
+            if(valid_array(mid,nums,k)){
                 right=mid-1;
-                answer=mid;
+                ans=mid;
             }
             else
-                left=mid+1;  
+                left=mid+1;
         }
-        return answer;
+        return ans;
     }
-    private boolean isValidSplit(int[] nums,int k,int maxSum){
-        int partition=1;
-        int currSum=0;
+    private boolean valid_array(int mid,int[] nums,int k){
+        int split=1;
+        int sum=0;
         for(int num:nums){
-            if(currSum+num>maxSum){
-                partition++;
-                currSum=num;
-                if(partition>k)
+            if(sum+num>mid){
+                sum=num;
+                split++;
+                if(split>k)
                     return false;
             }
             else
-                currSum+=num;
+                sum+=num;
         }
         return true;
     }

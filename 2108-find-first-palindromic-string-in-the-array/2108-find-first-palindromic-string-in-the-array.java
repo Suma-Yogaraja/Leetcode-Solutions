@@ -10,10 +10,8 @@ class Solution {
         int r=s.length()-1;
         int l=0;
         while(l<=r){
-            if(s.charAt(l)!=s.charAt(r))
+            if(s.charAt(l++)!=s.charAt(r--))
                 return false;
-            l++;
-            r--;
         }
         return true;
     }

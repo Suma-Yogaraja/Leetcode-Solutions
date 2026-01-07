@@ -4,7 +4,7 @@ class Solution {
             if(isPalindrome(words[i]))
                 return words[i];
         }
-        return new String();
+        return "";
     }
     private boolean isPalindrome(String s){
         int r=s.length()-1;

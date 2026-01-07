@@ -1,7 +1,5 @@
 class Solution {
     public String firstPalindrome(String[] words) {
-        if(words.length<1)
-            return null;
         for(int i=0;i<words.length;i++){
             if(isPalindrome(words[i]))
                 return words[i];

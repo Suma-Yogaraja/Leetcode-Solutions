@@ -16,7 +16,7 @@ class Solution {
             return list2;
         if(list2==null)
             return list1;
-        ListNode dummy=new ListNode(0);
+        ListNode dummy;
         ListNode head;
         if(list1.val<=list2.val){
             head=list1;
@@ -26,7 +26,7 @@ class Solution {
             head=list2;
             list2=list2.next;
         }
-        dummy.next=head;
+        dummy=head;
         
         while(list1!=null && list2!=null){
             if(list1.val<=list2.val){
@@ -49,6 +49,6 @@ class Solution {
              list2=list2.next;
              head=head.next;
         }
-        return dummy.next;
+        return dummy;
     }
 }

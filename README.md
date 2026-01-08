@@ -329,6 +329,7 @@ suma.yogaraja@gmail.com
 | [0739-daily-temperatures](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0792-binary-search) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-fruit-into-baskets) |

@@ -433,6 +433,7 @@ suma.yogaraja@gmail.com
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1361-validate-binary-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -488,6 +489,7 @@ suma.yogaraja@gmail.com
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1361-validate-binary-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -537,6 +539,7 @@ suma.yogaraja@gmail.com
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1361-validate-binary-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -591,6 +594,7 @@ suma.yogaraja@gmail.com
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1361-validate-binary-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -841,6 +845,7 @@ suma.yogaraja@gmail.com
 | [0547-number-of-provinces](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1361-validate-binary-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -852,6 +857,7 @@ suma.yogaraja@gmail.com
 | [0547-number-of-provinces](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1361-validate-binary-tree-nodes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |

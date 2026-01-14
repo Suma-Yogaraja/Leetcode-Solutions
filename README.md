@@ -499,6 +499,7 @@ suma.yogaraja@gmail.com
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -546,6 +547,7 @@ suma.yogaraja@gmail.com
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2685-count-the-number-of-complete-components](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -842,6 +844,7 @@ suma.yogaraja@gmail.com
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2685-count-the-number-of-complete-components](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -853,6 +856,7 @@ suma.yogaraja@gmail.com
 | [2121-find-if-path-exists-in-graph](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2685-count-the-number-of-complete-components](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |

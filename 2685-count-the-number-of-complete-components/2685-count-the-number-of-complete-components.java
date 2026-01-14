@@ -21,7 +21,7 @@ class Solution {
                 Set<Integer> component = new HashSet<>();
                 dfs(graph, key, seen, component);
                 if (isComplete(graph, component))
-                    ans += 1;
+                    ans++;
             }
         }
 

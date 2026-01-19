@@ -339,6 +339,7 @@ suma.yogaraja@gmail.com
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -539,6 +540,7 @@ suma.yogaraja@gmail.com
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -885,6 +887,7 @@ suma.yogaraja@gmail.com
 | [0542-01-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |

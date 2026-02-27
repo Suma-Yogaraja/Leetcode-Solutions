@@ -217,6 +217,7 @@ suma.yogaraja@gmail.com
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
 | [0763-partition-labels](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -957,6 +958,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

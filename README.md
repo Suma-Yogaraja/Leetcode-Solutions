@@ -273,6 +273,7 @@ suma.yogaraja@gmail.com
 | [0056-merge-intervals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0078-subsets) |
@@ -780,6 +781,7 @@ suma.yogaraja@gmail.com
 | [0036-valid-sudoku](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -883,6 +885,7 @@ suma.yogaraja@gmail.com
 | [0036-valid-sudoku](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0200-number-of-islands) |

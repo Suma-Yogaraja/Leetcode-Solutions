@@ -10,26 +10,29 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null || k==0 || head.next==null)
+        //use slow and fast to find the head of new rotated list
+        if(head==null || head.next==null)
             return head;
         int n=1;
-        ListNode fast=head;
         ListNode slow=head;
-        while(fast.next!=null){
+        ListNode fast=head;
+       while(fast.next!=null){
             fast=fast.next;
             n++;
-        }
-        //  System.out.println(n);
-        k=k%n;
-        if(k==0)
-            return head;
-        for(int i=0;i<(n-k-1);i++){
-            slow=slow.next; 
-        }
-        // System.out.println(slow.val + " : " + fast.val);
-        ListNode newhead=slow.next;
-        slow.next=null;
-        fast.next=head;
-        return newhead;
+          
+       }
+    //    System.out.println(n);
+       k=k%n;
+       if(k==0)
+        return head;
+       for(int i=1;i<(n-k);i++){
+        slow=slow.next;
+       }
+       ListNode newHead=slow.next;
+       fast.next=head;
+       slow.next=null;
+
+    //    System.out.println(slow.val);
+        return newHead;
     }
 }

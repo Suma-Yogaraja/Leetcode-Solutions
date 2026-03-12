@@ -10,9 +10,9 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ListNode res=new ListNode();
-        if(lists==null)
-            return res;
+        
+        if(lists.length==0)
+            return null;
         PriorityQueue<ListNode> pq=new PriorityQueue<>(
             (a,b)-> (a.val-b.val)
         );

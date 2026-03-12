@@ -170,6 +170,7 @@ suma.yogaraja@gmail.com
 | [0380-insert-delete-getrandom-o1](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -340,6 +341,7 @@ suma.yogaraja@gmail.com
 | [0907-koko-eating-bananas](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0983-validate-stack-sequences](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -714,6 +716,7 @@ suma.yogaraja@gmail.com
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -939,6 +942,7 @@ suma.yogaraja@gmail.com
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Queue
 |  |
@@ -969,6 +973,7 @@ suma.yogaraja@gmail.com
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -997,6 +1002,7 @@ suma.yogaraja@gmail.com
 | [0658-find-k-closest-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0744-network-delay-time) |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1127-last-stone-weight) |
@@ -1017,6 +1023,7 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |

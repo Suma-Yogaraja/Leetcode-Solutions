@@ -364,6 +364,7 @@ suma.yogaraja@gmail.com
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1192-divide-chocolate](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1192-divide-chocolate) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -727,6 +728,7 @@ suma.yogaraja@gmail.com
 | [1094-matrix-cells-in-distance-order](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -762,6 +764,7 @@ suma.yogaraja@gmail.com
 | [1081-video-stitching](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1081-video-stitching) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -827,6 +830,7 @@ suma.yogaraja@gmail.com
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1044-find-common-characters) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |

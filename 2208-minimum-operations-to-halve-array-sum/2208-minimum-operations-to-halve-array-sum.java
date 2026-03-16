@@ -2,9 +2,9 @@ class Solution {
     public int halveArray(int[] nums) {
         double totalSum=0.0;
         PriorityQueue<Double> maxHeap=new PriorityQueue<>(Comparator.reverseOrder());
-        for(int num:nums){
+        for(double num:nums){
             totalSum+=num;
-            maxHeap.offer(num+0.0);
+            maxHeap.offer(num);
         }
         double halfSum=totalSum/2.0;
         // System.out.println(totalSum);

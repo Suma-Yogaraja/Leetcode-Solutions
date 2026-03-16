@@ -23,7 +23,7 @@ class Solution {
             }
             for(int rem:countList)
                 pq.offer(rem);
-            if(!pq.isEmpty())
+            if(i<cycle && !pq.isEmpty())
                 time+=cycle-i;//adding idle time
             
         }

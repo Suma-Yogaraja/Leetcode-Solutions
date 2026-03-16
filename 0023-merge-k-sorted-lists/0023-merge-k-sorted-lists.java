@@ -25,7 +25,7 @@ class Solution {
             result=result.next;
             if(node.next!=null){
                 pq.offer(node.next);
-                node=node.next;
+              
             } 
         }
             return ans.next;

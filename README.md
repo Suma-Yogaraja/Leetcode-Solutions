@@ -384,6 +384,7 @@ suma.yogaraja@gmail.com
 | [2102-find-the-middle-index-in-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -773,6 +774,7 @@ suma.yogaraja@gmail.com
 | [1829-maximum-units-on-a-truck](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1027,6 +1029,7 @@ suma.yogaraja@gmail.com
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |

@@ -1028,6 +1028,7 @@ suma.yogaraja@gmail.com
 | [1127-last-stone-weight](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1184-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1845-seat-reservation-manager](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1845-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1054,6 +1055,7 @@ suma.yogaraja@gmail.com
 | [0295-find-median-from-data-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1845-seat-reservation-manager](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1845-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |

@@ -126,6 +126,7 @@ suma.yogaraja@gmail.com
 | [0227-basic-calculator-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -214,6 +215,7 @@ suma.yogaraja@gmail.com
 | [0451-sort-characters-by-frequency](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0753-open-the-lock) |
 | [0763-partition-labels](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0763-partition-labels) |
@@ -761,6 +763,7 @@ suma.yogaraja@gmail.com
 | [0455-assign-cookies](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0860-lemonade-change) |
@@ -943,6 +946,7 @@ suma.yogaraja@gmail.com
 | [0410-split-array-largest-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-video-stitching](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1081-video-stitching) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Trie

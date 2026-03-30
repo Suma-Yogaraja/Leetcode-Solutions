@@ -337,6 +337,7 @@ suma.yogaraja@gmail.com
 | [0846-hand-of-straights](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -762,6 +763,7 @@ suma.yogaraja@gmail.com
 | [0621-task-scheduler](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1081-video-stitching](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1081-video-stitching) |

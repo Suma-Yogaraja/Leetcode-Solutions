@@ -2,7 +2,7 @@ class Solution {
     public int findContentChildren(int[] g, int[] s) {
         if(s.length<=0)
             return 0;
-        System.out.println(s.length);
+        // System.out.println(s.length);
         //sort both s and greed
         Arrays.sort(g);
         Arrays.sort(s);

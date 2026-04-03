@@ -386,6 +386,7 @@ suma.yogaraja@gmail.com
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2102-find-the-middle-index-in-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2245-destroying-asteroids](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -843,6 +844,7 @@ suma.yogaraja@gmail.com
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -926,6 +928,7 @@ suma.yogaraja@gmail.com
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/Suma-Yogaraja/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Suma-Yogaraja/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Dynamic Programming
 |  |

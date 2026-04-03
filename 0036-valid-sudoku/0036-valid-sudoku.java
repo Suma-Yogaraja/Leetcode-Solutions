@@ -8,27 +8,26 @@ class Solution {
             row[i]=new HashSet<>();
             col[i]=new HashSet<>();
             box[i]=new HashSet<>();
-        }
 
-        for(int i=0;i<9;i++){
-            for(int j=0;j<9;j++){
-                char character=board[i][j];
-                if(character=='.')
+        }
+        for(int r=0;r<9;r++){
+            for(int c=0;c<9;c++){
+                char ch=board[r][c];
+                if(ch=='.')
                     continue;
-                if(row[i].contains(character))
+                if(row[r].contains(ch))
                     return false;
                 else
-                    row[i].add(character);
-                if(col[j].contains(character))
+                    row[r].add(ch);
+                if(col[c].contains(ch))
                     return false;
                 else
-                    col[j].add(character);
-                int boxIndex=(i/3)*3+(j/3);
-                if(box[boxIndex].contains(character))
+                    col[c].add(ch);
+                int boxNumber=(r/3)*3+c/3;
+                if(box[boxNumber].contains(ch))
                     return false;
                 else
-                    box[boxIndex].add(character);
-                
+                    box[boxNumber].add(ch);
             }
         }
         return true;

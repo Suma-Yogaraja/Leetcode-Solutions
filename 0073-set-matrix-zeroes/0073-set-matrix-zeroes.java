@@ -1,61 +1,59 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        boolean firstRowZero=false;
-        boolean firstColZero=false;
-        //check first ro and col for zero and set boolean value to true if so
-        for(int r=0;r<m;r++){
-            if(matrix[r][0]==0){
-                firstColZero=true;
-                // System.out.println("first row has zero");
+        boolean firstRow=false;
+        boolean firstCol=false;
+        int m=matrix.length;
+        int n=matrix[0].length;
+        for(int i=0;i<m;i++){
+            if(matrix[i][0]==0){
+                firstRow=true;
                 break;
             }
         }
-
-        for(int c=0;c<n;c++){
-            if(matrix[0][c]==0){
-                firstRowZero=true;
-                // System.out.println("first col has zero");
+         for(int i=0;i<n;i++){
+            if(matrix[0][i]==0){
+                firstCol=true;
                 break;
             }
         }
-        //use first ro first col as markers 
-        for(int r=1;r<m;r++){
-            for(int c=1;c<n;c++){
-                if(matrix[r][c]==0){
-                    matrix[r][0]=0;
-                    matrix[0][c]=0;
-                //    System.out.println("inside marker"); 
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                if(matrix[i][j]==0){
+                    //make first row and first col as zero
+                    matrix[0][j]=0;
+                    matrix[i][0]=0;
+                    System.out.println("make row" + i + "as zero" );
+                     System.out.println("make col" + j + "as zero" );
                 }
             }
         }
-        //make all row as zero for marked row and col
-        for(int r=1;r<m;r++){
-            if(matrix[r][0]==0){
-                for(int c=1;c<n;c++){
-                    matrix[r][c]=0;
+        //row
+        for(int i=1;i<m;i++){
+            if(matrix[i][0]==0){
+                for(int j=1;j<n;j++){
+                    matrix[i][j]=0;
+                    
                 }
             }
         }
-        for(int c=1;c<n;c++){
-            if(matrix[0][c]==0){
-                for(int r=1;r<m;r++){
-                    matrix[r][c]=0;
+        //col
+        for(int j=0;j<n;j++){
+            if(matrix[0][j]==0){
+                for(int i=0;i<m;i++){
+                    matrix[i][j]=0;
+                    
                 }
             }
         }
-        if(firstRowZero){
-            for(int c=0;c<n;c++){
-                matrix[0][c]=0;
+        if(firstRow){
+            for(int i=0;i<m;i++){
+                matrix[i][0]=0;
             }
         }
-        if(firstColZero){
-            for(int r=0;r<m;r++){
-                matrix[r][0]=0;
-                // System.out.println("making all ro zero");
+        if(firstCol){
+            for(int i=0;i<n;i++){
+                matrix[0][i]=0;
             }
         }
-
     }
 }

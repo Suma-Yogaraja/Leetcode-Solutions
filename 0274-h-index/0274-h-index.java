@@ -1,25 +1,21 @@
 class Solution {
     public int hIndex(int[] citations) {
+        
+        //im thinking of binary serch
         Arrays.sort(citations);
         int n=citations.length;
-        int start=0;
-        int end=n-1;
-        int ans=Math.min(citations[0],n);
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            // System.out.println("mid: "+mid);
-            // System.out.print("")
-            if((n-mid)>=citations[mid]){
-                ans=Math.max(ans, citations[mid]);
-                // Systemout.println("if---ans:"+ans);
-                start=mid+1;
+        int low=0;
+        int high=n-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            //System.out.println(mid);
+            if(citations[mid]>=(n-mid)){
+                //System.out.println("min citation is :" + citations[mid]);
+                high=mid-1;
             }
-            else {
-                ans = Math.max(ans, Math.min(n-mid, citations[mid]));
-                // System.out.println("else---ans:"+ans);
-                end=mid-1;
-            }
+            else
+                low=mid+1;
         }
-        return ans;
+        return n-low;
     }
 }

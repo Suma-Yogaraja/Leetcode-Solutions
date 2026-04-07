@@ -6,7 +6,7 @@ class Solution {
             if(maxStep<i)
                 return false;
             maxStep=Math.max(maxStep,(nums[i]+i));
-             System.out.println(maxStep);  
+            //  System.out.println(maxStep);  
         }
         return true;
     }

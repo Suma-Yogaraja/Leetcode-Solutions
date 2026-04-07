@@ -22,8 +22,8 @@ class Solution {
                     //make first row and first col as zero
                     matrix[0][j]=0;
                     matrix[i][0]=0;
-                    System.out.println("make row" + i + "as zero" );
-                     System.out.println("make col" + j + "as zero" );
+                    // System.out.println("make row" + i + "as zero" );
+                    //  System.out.println("make col" + j + "as zero" );
                 }
             }
         }

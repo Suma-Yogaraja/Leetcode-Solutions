@@ -1,19 +1,20 @@
 class Solution {
     public int maxArea(int[] height) {
-        //find rectangle area,find heighest from left and right
-        //use two pointer
-        int left=0;
-        int area=0;
-        int maxArea=Integer.MIN_VALUE;
-        int right=height.length-1;
-        while(left<=right){
-            area=(right-left)* Math.min(height[left],height[right]); //length*breadth 
-            maxArea=Math.max(area,maxArea);
-            if(height[left]<height[right])
-                left++;
+       //maximise area of rectangle
+       int start=0;
+       int end=height.length-1;
+       int maxArea=0;
+
+       while(start<end){
+            int area=(Math.min(height[start],height[end]))*(end-start);
+            // System.out.println(area);
+            maxArea=Math.max(maxArea,area);
+            if(height[start]>height[end])
+                end--;
             else
-                right--;
-        }
-        return maxArea;
+                start++;
+
+       }
+     return maxArea;
     }
 }

@@ -1,12 +1,14 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
+        //classic two pointer 
         int start=0;
         int end=numbers.length-1;
-        while(start<=end){
-            int currSum=numbers[start]+numbers[end];
-            if(currSum==target)
+        while(start<end){
+            int sum=numbers[start]+numbers[end];
+            if(sum==target){
                 return new int[]{start+1,end+1};
-            else if(currSum<target)
+            }
+            else if(sum<target)
                 start++;
             else
                 end--;

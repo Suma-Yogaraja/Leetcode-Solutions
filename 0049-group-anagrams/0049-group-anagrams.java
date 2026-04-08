@@ -9,7 +9,7 @@ class Solution {
             char[] c=s.toCharArray();
             Arrays.sort(c);
             String key=new String(c);
-            System.out.println(key);
+            // System.out.println(key);
             dict.putIfAbsent(key, new ArrayList<>()); 
             dict.get(key).add(i);
         }

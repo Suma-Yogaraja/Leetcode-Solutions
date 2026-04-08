@@ -1141,4 +1141,8 @@ suma.yogaraja@gmail.com
 | ------- |
 | [0207-course-schedule](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0210-course-schedule-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

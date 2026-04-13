@@ -19,7 +19,7 @@ class Solution {
             fast=fast.next;
             n++;
         }
-        System.out.println("len is :" +n);
+        // System.out.println("len is :" +n);
         k=k%n;
         if(k==0)
             return head;

@@ -17,7 +17,7 @@ class Solution {
         while(head!=null){
             if(head.next!=null && head.val==head.next.val){
                 //duplicate exists
-                System.out.println("dup exists and its value :"+head.val);
+                // System.out.println("dup exists and its value :"+head.val);
                 int dup=head.val;
                 while(head!=null && head.val==dup) {
                     head=head.next;
@@ -25,7 +25,7 @@ class Solution {
                 continue;  
             }
             else{
-                System.out.println("non dup value :"+head.val);
+                // System.out.println("non dup value :"+head.val);
                 curr.next=head;
                 curr=curr.next;
                 head=head.next;

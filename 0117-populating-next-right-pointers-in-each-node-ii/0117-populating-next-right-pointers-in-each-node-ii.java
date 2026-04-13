@@ -22,26 +22,20 @@ class Node {
 */
 class Solution {
     public Node connect(Node root) {
-        //im thinking of bfs solution here sunce its a level order traversal
-        if(root==null){
-            return root;
-        }
-        Queue<Node> q=new LinkedList<>();
-        q.offer(root);
-        root.next=null;
+        if(root==null)
+            return null;
+        Queue<Node> q=new LinkedList<Node>();
+        q.add(root);
         while(!q.isEmpty()){
             int size=q.size();
             for(int i=0;i<size;i++){
-                Node node=q.remove();
+                Node n=q.poll();
                 if(i!=size-1)
-                    node.next=q.peek();
-                if(node.left!=null){
-                    q.offer(node.left);
-                }
-                if(node.right!=null){
-                    q.offer(node.right);
-                }
-                
+                    n.next=q.peek();
+                if(n.left!=null)
+                    q.add(n.left);
+                if(n.right!=null)
+                    q.add(n.right);
             }
         }
         return root;

@@ -15,20 +15,25 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        //root to leaf traverse
-        int sum=0;
-        List<Integer> res=new ArrayList<>();
-        return dfs(root,0); 
-    }
-    private int dfs(TreeNode node,int currNumber){
-        if(node==null)
-            return 0;
-        currNumber=currNumber*10+node.val;
-        // System.out.println(currNumber);
-        if(node.left==null && node.right==null){
-                return currNumber;
-        }
-        else
-            return dfs(node.left,currNumber)+ dfs(node.right,currNumber);
+        int res=0;
+       if(root==null)
+        return 0;
+        res=dfs(root,0);
+        return res;
     } 
+
+    public int dfs(TreeNode node,int result){
+       if(node==null)
+        return 0;
+        if(node.left==null && node.right==null){
+            //leafnode
+            result=result*10+node.val;
+            // System.out.println(result);
+            return result;
+                
+        }
+        result=result*10+node.val;
+        return dfs(node.left,result)+dfs(node.right,result);
+        
+    }
 }

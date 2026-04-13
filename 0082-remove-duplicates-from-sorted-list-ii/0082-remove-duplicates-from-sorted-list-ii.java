@@ -10,28 +10,29 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
+        Set<Integer> set=new HashSet<>();
         ListNode dummy=new ListNode(0);
-        dummy.next=head;
-        ListNode prev=dummy;
-        ListNode curr=head;
-        ListNode nextNode=curr;
-        boolean flag=false;
-        while(curr!=null){
-            nextNode=curr.next;
-            while(nextNode!=null && curr.val==nextNode.val){
-                nextNode=nextNode.next;
-                flag=true;
-            }
-            if(flag){
-                prev.next=nextNode;
-                flag=false;
+        // dummy.next=head;
+        ListNode curr=dummy;
+        while(head!=null){
+            if(head.next!=null && head.val==head.next.val){
+                //duplicate exists
+                System.out.println("dup exists and its value :"+head.val);
+                int dup=head.val;
+                while(head!=null && head.val==dup) {
+                    head=head.next;
+                }   
+                continue;  
             }
             else{
-                prev.next=curr;
-                prev=curr;
+                System.out.println("non dup value :"+head.val);
+                curr.next=head;
+                curr=curr.next;
+                head=head.next;
             }
-            curr=nextNode;
+       
         }
+        curr.next=null;
         return dummy.next;
     }
 }

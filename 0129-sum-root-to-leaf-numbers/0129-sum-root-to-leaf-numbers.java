@@ -14,26 +14,25 @@
  * }
  */
 class Solution {
-    public int sumNumbers(TreeNode root) {
-        int res=0;
-       if(root==null)
-        return 0;
-        res=dfs(root,0);
-        return res;
-    } 
 
-    public int dfs(TreeNode node,int result){
-       if(node==null)
-        return 0;
-        if(node.left==null && node.right==null){
-            //leafnode
-            result=result*10+node.val;
-            // System.out.println(result);
-            return result;
-                
+    public int sumNumbers(TreeNode root) {
+        if (root == null)
+            return 0;
+        return dfs(root, 0);
+
+    }
+
+    private int dfs(TreeNode node, int num) {
+        if (node == null)
+            return 0;
+        num = num * 10 + node.val;
+        if (node.left == null && node.right == null) {
+            //leadf node
+            
+            System.out.println(num);
+            return num;
         }
-        result=result*10+node.val;
-        return dfs(node.left,result)+dfs(node.right,result);
-        
+        return dfs(node.left, num) + dfs(node.right, num);
+
     }
 }

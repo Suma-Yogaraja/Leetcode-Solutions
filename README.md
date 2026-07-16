@@ -1145,4 +1145,8 @@ suma.yogaraja@gmail.com
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Suma-Yogaraja/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

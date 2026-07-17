@@ -4,7 +4,7 @@ class Solution {
         int r=nums.length-1;
         int ptr=nums.length-1;
         int[] res=new int[nums.length];
-        System.out.println(ptr);
+        // System.out.println(ptr);
         while(l<=r){
             if((nums[l]*nums[l])>(nums[r]*nums[r])){
                 res[ptr]=nums[l]*nums[l];

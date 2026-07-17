@@ -8,6 +8,7 @@ class Solution {
             if(dict.containsKey(diff)){
                 res[0]=i;
                 res[1]=dict.get(diff);
+                break;
             }
             else
                 dict.put(nums[i],i);
